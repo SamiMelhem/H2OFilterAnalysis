@@ -1,0 +1,333 @@
+Table,Category,T22 Name,Name in Permit,DB Name,DB Units,Reg Limit,Reg Unit,Reg Type,Notes
+64431-A,Inorganic Chemicals,Aluminum,Aluminum,Aluminum ,mg/L,1,mg/L,,
+64431-A,Inorganic Chemicals,Antimony,Antimony,Antimony ,ug/L,0.006,mg/L,PMCL,
+64431-A,Inorganic Chemicals,Arsenic,Arsenic,Arsenic ,ug/L,0.01,mg/L,PMCL,
+64431-A,Inorganic Chemicals,Asbestos,Asbestos,Asbestos ,MFL,7,MFL,PMCL,
+64431-A,Inorganic Chemicals,Barium,Barium,Barium ,ug/L,1,mg/L,,
+64431-A,Inorganic Chemicals,Beryllium,Beryllium,Beryllium ,ug/L,0.004,mg/L,PMCL,
+64431-A,Inorganic Chemicals,Cadmium,Cadmium,Cadmium ,ug/L,0.005,mg/L,PMCL,
+64431-A,Inorganic Chemicals,Chromium (Total),Chromium (Total),Total Chromium ,ug/L,0.05,mg/L,,
+64431-A,Inorganic Chemicals,Cyanide,Cyanide,Cyanide ,mg/L,0.15,mg/L,MCL,
+64431-A,Inorganic Chemicals,Fluoride,Fluoride,Fluoride ,mg/L,2,mg/L,MCL,
+64431-A,Inorganic Chemicals,Hexavalent chromium,Chromium VI ,Hexavalent Chromium (Cr VI),ug/L,0.01,mg/L,PMCL,
+64431-A,Inorganic Chemicals,Mercury,Mercury,Mercury ,ug/L,0.002,mg/L,MCL,
+64431-A,Inorganic Chemicals,Nickel,Nickel,Nickel ,ug/L,0.1,mg/L,MCL,
+64431-A,Inorganic Chemicals,Nitrate (as nitrogen),Nitrate (as N),Nitrate ( as N),mg/L,10,mg/L,MCL,Type 0; Compliance point at Advanced Water Treatment Plant prior to GW --> does not need to be monitored in GW
+64431-A,Inorganic Chemicals,Nitrate+Nitrite (sum as nitrogen),Nitrate plus Nitrite,"Total Nitrate, Nitrite-N, CALC ",mg/L,10,mg/L,MCL,Type 0; Compliance point at Advanced Water Treatment Plant prior to GW --> does not need to be monitored in GW
+64431-A,Inorganic Chemicals,Nitrite (as nitrogen),Nitrite (as N),"Nitrite, Nitrogen by IC ",mg/L,1,mg/L,MCL,Type 0; Compliance point at Advanced Water Treatment Plant prior to GW --> does not need to be monitored in GW
+64431-A,Inorganic Chemicals,Perchlorate,Perchlorate,Perchlorate ,ug/L,0.006,mg/L,MCL,
+64431-A,Inorganic Chemicals,Selenium,Selenium,Selenium ,ug/L,0.05,mg/L,MCL,
+64431-A,Inorganic Chemicals,Thallium,Thallium,Thallium ,ug/L,0.002,mg/L,MCL,
+64442,Radionuclides,Radium-226,Radium 226,Radium 226 ,pCi/L,,,,
+64442,Radionuclides,Radium-228 (combined radium-226 & -228),Combined Radium-226 and Radium-228 ,Radium 226 and 228 ,pCi/L,5,pCi/L ,MCL,
+64442,Radionuclides,Gross Alpha particle activity (excluding radon and uranium),Gross Alpha Particle Activity (Including Radium- 226 but Excluding Radon and Uranium) ,Gross Alpha particle activity (excluding radon and uranium) ,pCi/L,15,pCi/L ,MCL,
+64442,Radionuclides,Uranium,Uranium ,Uranium ,pCi/L,20,pCi/L ,MCL,
+64443,Radionuclides,Gross Beta Particle Activity (Beta/photon emitters),Gross Beta Particle Activity ,Gross Beta ,pCi/L,50,pCi/L,MCL,
+64443,Radionuclides,Strontium-90,Strontium 90,Strontium 90 ,pCi/L,8,pCi/L,MCL,
+64443,Radionuclides,Tritium,Tritium ,Tritium ,pCi/L,20000,pCi/L,MCL,
+64444-A,VOCs,Benzene,Benzene,Benzene ,ug/L,0.001,mg/L,MCL,
+64444-A,VOCs,Carbon Tetrachloride (CTC),Carbon Tetrachloride (CTC),Carbon Tetrachloride ,ug/L,0.0005,mg/L,MCL,
+64444-A,VOCs,"1,2-Dichlorobenzene","1,2-Dichlorobenzene ","o-Dichlorobenzene (1,2-DCB)",ug/L,0.6,mg/L,MCL,
+64444-A,VOCs,"1,4-Dichlorobenzene","1,4-Dichlorobenzene ",p-Dichlorobenzene ,ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,"1,1-Dichloroethane","1,1-Dichloroethane","1,1-Dichloroethane ",ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,"1,2-Dichloroethane (1,2-DCA)","1,2-Dichloroethane (1,2 DCA)","1,2-Dichloroethane ",ug/L,0.0005,mg/L,MCL,
+64444-A,VOCs,"1,1-Dichloroethylene (1,1-DCE)","1,1-Dichloroethene (1,1 DCE) ","1,1-Dichloroethylene ",ug/L,0.006,mg/L,MCL,
+64444-A,VOCs,"cis-1,2-Dichloroethylene","cis-1,2-Dichloroethylene ","cis-1,2-Dichloroethylene ",ug/L,0.006,mg/L,MCL,
+64444-A,VOCs,"trans-1,2-Dichloroethylene","Trans-1,2-Dichloroethylene","trans-1,2-Dichloroethylene ",ug/L,0.01,mg/L,MCL,
+64444-A,VOCs,Dichloromethane,Dichloromethane,Methylene Chloride ,ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,"1,2-Dichloropropane","1,2-Dichloropropane","1,2-Dichloropropane ",ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,"1,3-Dichloropropene","1,3-Dichloropropene","1,3-Dichloropropene (Total)",ug/L,0.0005,mg/L,MCL,
+64444-A,VOCs,Ethylbenzene,Ethylbenzene,Ethyl benzene ,ug/L,0.3,mg/L,MCL,
+64444-A,VOCs,Methyl-tert-butyl ether (MTBE),Methyl Tert Butyl Ether (MTBE),Methyl Tert Butyl Ether (MTBE),ug/L,0.013,mg/L,MCL,
+64444-A,VOCs,Monochlorobenzene,Monochlorobenzene,Chlorobenzene ,ug/L,0.07,mg/L,MCL,
+64444-A,VOCs,Styrene,Styrene,Styrene ,ug/L,0.1,mg/L,MCL,
+64444-A,VOCs,"1,1,2,2-Tetrachloroethane","1,1,2,2-Tetrachloroethane","1,1,2,2-Tetrachloroethane ",ug/L,0.001,mg/L,MCL,
+64444-A,VOCs,Tetrachloroethylene (PCE),Tetrachloroethylene (PCE),Tetrachloroethylene (PCE),ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,Toluene,Toluene,Toluene ,ug/L,0.15,mg/L,MCL,
+64444-A,VOCs,"1,2,4-Trichlorobenzene","1,2,4-Trichlorobenzene","1,2,4-Trichlorobenzene ",ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,"1,1,1-Trichloroethane","1,1,1-Trichloroethane","1,1,1-Trichloroethane ",ug/L,0.2,mg/L,MCL,
+64444-A,VOCs,"1,1,2-Trichloroethane","1,1,2-Trichloroethane","1,1,2-Trichloroethane ",ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,Trichloroethylene (TCE),Trichloroethylene (TCE),Trichloroethylene (TCE),ug/L,0.005,mg/L,MCL,
+64444-A,VOCs,Trichlorofluoromethane,Trichlorofluoromethane ,Fluorotrichloromethane (Freon11),ug/L,0.15,mg/L,MCL,
+64444-A,VOCs,"1,1,2-Trichloro-1,2,2-Trifluoroethane","1,1,2-Trichloro-1,2,2-Trifluoroethane",Trichlorotrifluoroethane (Freon 113),ug/L,1.2,mg/L,MCL,
+64444-A,VOCs,Vinyl Chloride,Vinyl Chloride (VC),Vinyl chloride (VC),ug/L,0.0005,mg/L,MCL,
+64444-A,VOCs,"Xylenes (m,p)","Xylenes (m,p) ","m,p-Xylenes ",ug/L,1.75,mg/L,MCL,
+64444-B,SOCs,Alachlor,Alachlor,Alachlor ,ug/L,0.002,mg/L,MCL,
+64444-B,SOCs,Atrazine,Atrazine,Atrazine ,ug/L,0.001,mg/L,MCL,
+64444-B,SOCs,Bentazon,Bentazon,Bentazon ,ug/L,0.018,mg/L,MCL,
+64444-B,SOCs,Benzo(a)pyrene,Benzo(a)pyrene,Benzo (a) Pyrene,ug/L,0.0002,mg/L,MCL,
+64444-B,SOCs,Carbofuran,Carbofuran,Carbofuran (Furadan) ,ug/L,0.018,mg/L,MCL,
+64444-B,SOCs,Chlordane,Chlordane,Chlordane ,ug/L,0.0001,mg/L,MCL,
+64444-B,SOCs,"2,4-D","2,4-Dichlorophenoxyacetic acid (2,4-D) ","2,4-D ",ng/L,0.07,mg/L,MCL,
+64444-B,SOCs,Dalapon,Dalapon,Dalapon (qualitative) ,ug/L,0.2,mg/L,MCL,
+64444-B,SOCs,Dibromochloropropane (DBCP),"1,2-Dibromo-3-chloropropane (DBCP) ",Dibromochloropropane (DBCP),ug/L,0.0002,mg/L,MCL,
+64444-B,SOCs,Di(2-ethylhexyl)adipate,Di (2-ethylhexyl)adipate,Di (2-Ethylhexyl) Adipate ,ug/L,0.4,mg/L,MCL,
+64444-B,SOCs,Di(2-ethylhexyl)phthalate,Di(2-ethylhexyl)phthalate,Di(2-ethylhexyl)phthalate (DEHP) ,ug/L,0.004,mg/L,MCL,
+64444-B,SOCs,Dinoseb,Dinoseb,Dinoseb ,ug/L,0.007,mg/L,MCL,
+64444-B,SOCs,Diquat,Diquat,Diquat ,ug/L,0.02,mg/L,MCL,
+64444-B,SOCs,Endothall,Endothal,Endothall ,ug/L,0.1,mg/L,MCL,
+64444-B,SOCs,Endrin,Endrin,Endrin ,ug/L,0.002,mg/L,MCL,
+64444-B,SOCs,Ethylene Dibromide (EDB),Ethylene Dibromide (EDB),Ethylene Dibromide (EDB),ug/L,0.00005,mg/L,MCL,
+64444-B,SOCs,Glyphosate,Glyphosate,Glyphosate ,ug/L,0.7,mg/L,MCL,
+64444-B,SOCs,Heptachlor,Heptachlor,Heptachlor ,ug/L,0.00001,mg/L,MCL,
+64444-B,SOCs,Heptachlor Epoxide,Heptachlor Epoxide,Heptachlor Epoxide ,ug/L,0.00001,mg/L,MCL,
+64444-B,SOCs,Hexachlorobenzene,Hexachlorobenzene,Hexachlorobenzene ,ug/L,0.001,mg/L,MCL,
+64444-B,SOCs,Hexachlorocyclopentadiene,Hexachlorocyclopentadiene,Hexachlorocyclopentadiene ,ug/L,0.05,mg/L,MCL,
+64444-B,SOCs,Lindane,Lindane,Lindane (Gamma-BHC),ug/L,0.0002,mg/L,MCL,
+64444-B,SOCs,Methoxychlor,Methoxychlor,Methoxychlor ,ug/L,0.03,mg/L,MCL,
+64444-B,SOCs,Molinate,Molinate,Molinate ,ug/L,0.02,mg/L,MCL,
+64444-B,SOCs,Oxamyl,Oxamyl,Oxamyl (Vydate),ug/L,0.05,mg/L,MCL,
+64444-B,SOCs,Pentachlorophenol,Pentachlorophenol,PCP ,ug/L,0.001,mg/L,MCL,
+64444-B,SOCs,Picloram,Picloram,Picloram ,ug/L,0.5,mg/L,MCL,
+64444-B,SOCs,Polychlorinated Biphenyls,Polychlorinated Biphenyls,Polychlorinated Biphenyls (PCBs),ug/L,0.0005,mg/L,MCL,"See Type ""PCB"" for additional individual PCBs. Limit applies to sum of all PCBs"
+64444-B,SOCs,Simazine,Simazine,Simazine ,ug/L,0.004,mg/L,MCL,
+64444-B,SOCs,Thiobencarb,Thiobencarb,Thiobencarb ,ug/L,0.07,mg/L,MCL,
+64444-B,SOCs,Toxaphene,Toxaphene,Toxaphene ,ug/L,0.003,mg/L,MCL,
+64444-B,SOCs,"1,2,3-Trichloropropane","1,2,3-Trichloropropane (TCP)","1,2,3-Trichloropropane ",ug/L,0.000005,mg/L,MCL,
+64444-B,SOCs,"2,3,7,8-TCDD (Dioxin)","2,3,7,8-TCDD (Dioxin)","2,3,7,8-TCDD (Dioxin)",pg/L,3.00E-08,mg/L,MCL,
+64444-B,SOCs,"2,4,5-TP (Silvex)","2,4,5-TP (Silvex)","2,4,5-TP (Silvex)",ug/L,0.05,mg/L,MCL,
+64533-A,Disinfection Byproduct,Total trihalomethanes (TTHM),Total Trihalomethanes (TTHM) ,Total Trihalomethanes ,ug/L,0.08,mg/L,MCL,
+64533-A,Disinfection Byproduct,Bromodichloromethane,Bromodichloromethane ,Bromodichloromethane ,ug/L,,,,
+64533-A,Disinfection Byproduct,Bromoform,Bromoform,Bromoform ,ug/L,,,,
+64533-A,Disinfection Byproduct,Chloroform,Chloroform,Chloroform (Trichloromethane),ug/L,,,,
+64533-A,Disinfection Byproduct,Dibromochloromethane,Dibromochloromethane,Chlorodibromomethane ,ug/L,,,,
+64533-A,Disinfection Byproduct,Haloacetic acids (five) (HAA5),Haloacetic Acid (five) (HAA5) ,D/DBP Haloacetic Acids (HAA5),ug/L,0.06,mg/L,MCL,
+64533-A,Disinfection Byproduct,Monochloroacetic Acid,Monochloroacetic acid ,Monochloroacetic acid ,ug/L,,,,
+64533-A,Disinfection Byproduct,Dichloroacetic Acid,Dichloroacetic acid ,Dichloroacetic acid ,ug/L,,,,
+64533-A,Disinfection Byproduct,Trichloroacetic Acid,Trichloroacetic acid ,Trichloroacetic acid ,ug/L,,,,
+64533-A,Disinfection Byproduct,Monobromoacetic Acid,Monobromoacetic acid ,Monobromoacetic acid ,ug/L,,,,
+64533-A,Disinfection Byproduct,Dibromoacetic Acid,Dibromoacetic acid ,Dibromoacetic acid ,ug/L,,,,
+64533-A,Disinfection Byproduct,Bromate,Bromate,Bromate ,ug/L,0.01,mg/L,MCL,
+64533-A,Disinfection Byproduct,Chlorite,Chlorite ,Chlorite by IC ,mg/L,1,mg/L,MCL,
+60320.212-5,Metals,Lead,Lead,Lead ,ug/L,0.015,mg/L,MCL,
+60320.212-6,Metals,Copper,Copper,Copper ,ug/L,1,mg/L,SMCL/PMCL,Type 0
+64449-A,SMCLs,Aluminum,Aluminum,Aluminum ,mg/L,0.2,mg/L,SMCL,
+64449-A,SMCLs,Color,Color,Apparent Color ,ACU,15,Units,SMCL,Type 0
+64449-A,SMCLs,Copper,Copper,Copper ,ug/L,1,mg/L,SMCL/PMCL,
+64449-A,SMCLs,Foaming Agents (MBAS) ,Foam Agents (MBAS),Surfactants ,mg/L,0.5,mg/L,SMCL,Type 0
+64449-A,SMCLs,Iron,Iron,Iron ,mg/L,0.3,mg/L,SMCL,Type 0
+64449-A,SMCLs,Manganese,Manganese,Manganese ,ug/L,0.05,mg/L,SMCL,Type 0
+64449-A,SMCLs,Methyl-tert -butyl ether (MTBE) ,Methyl Tert Butyl Ether (MTBE),Methyl Tert Butyl Ether (MTBE),ug/L,0.005,mg/L,SMCL,
+64449-A,SMCLs,Odor -Threshold ,Odor - Threshold,Odor ,TON,3,Units,SMCL,Type 0
+64449-A,SMCLs,Silver,Silver,Silver ,ug/L,0.1,mg/L,SMCL,
+64449-A,SMCLs,Thiobencarb ,Thiobencarb,Thiobencarb ,ug/L,0.001,mg/L,SMCL,
+64449-A,SMCLs,Turbidity,Turbidity,Lab Turbidity ,NTU,5,Units,SMCL,
+64449-A,SMCLs,Zinc,Zinc,Zinc ,ug/L,5,mg/L,SMCL,
+64449-B,MCLs,Total Dissolved Solids,Total Dissolved Solids (TDS),Total Dissolved Solids (TDS),mg/L,500,mg/L,MCL,Type 0
+64449-B,MCLs,Specific Conductance,Specific Conductance,Specific Conductance,umho/cm,900,umho/cm,MCL,Type 0; umho/cm = uS/cm
+64449-B,MCLs,Chloride ,Chloride,Chloride ,mg/L,250,mg/L,MCL,Type 0
+64449-B,MCLs,Sulfate,Sulfate,Sulfate ,mg/L,250,mg/L,MCL,Type 0
+40 CFR - 131.38,Inorganics with PMCLs,Antimony,Antimony,Antimony ,ug/L,0.006,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Arsenic,Arsenic,Arsenic ,ug/L,0.01,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Asbestos,Asbestos,Asbestos ,MFL,7,MFL,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Beryllium,Beryllium,Beryllium ,ug/L,0.004,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Cadmium,Cadmium,Cadmium ,ug/L,0.005,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Chromium (VI),Chromium VI ,Hexavalent Chromium (Cr VI) ,ug/L,0.01,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Copper,Copper,Copper ,ug/L,1,mg/L,SMCL/PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Cyanide,Cyanide,Cyanide ,mg/L,0.15,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Lead,Lead,Lead ,ug/L,0.015,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Mercury,Mercury,Mercury ,ug/L,0.002,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Nickel,Nickel,Nickel ,ug/L,0.1,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Selenium,Selenium,Selenium ,ug/L,0.05,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Silver,Silver,Silver ,ug/L,0.1,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Thallium,Thallium,Thallium ,ug/L,0.002,mg/L,PMCL,
+40 CFR - 131.38,Inorganics with PMCLs,Zinc,Zinc,Zinc ,ug/L,5,mg/L,PMCL,Type 0
+40 CFR - 131.38,Regulated VOCs,Benzene,Benzene,Benzene ,ug/L,0.001,mg/L,MCL,
+40 CFR - 131.38,Regulated VOCs,Carbon Tetrachloride (CTC),Carbon Tetrachloride (CTC),Carbon Tetrachloride ,ug/L,0.0005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,2 Dichlorobenzene","1,2-Dichlorobenzene ","o-Dichlorobenzene (1,2-DCB)",ug/L,0.6,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,4 Dichlorobenzene","1,4-Dichlorobenzene ",p-Dichlorobenzene ,ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,1-Dichloroethane","1,1-Dichloroethane","1,1-Dichloroethane ",ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,2-Dichloroethane (1,2 DCA)","1,2-Dichloroethane (1,2 DCA)","1,2-Dichloroethane ",ug/L,0.0005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,1-Dichloroethylene (1,1 DCE)","1,1-Dichloroethene (1,1 DCE) ","1,1-Dichloroethylene ",ug/L,0.006,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,2-Trans-Dichloroethylene","Trans-1,2-Dichloroethylene","trans-1,2-Dichloroethylene ",ug/L,0.01,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,Methylene Chloride [Dichloromethane],Dichloromethane,Methylene Chloride ,ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,2-Dichloropropane","1,2-Dichloropropane","1,2-Dichloropropane ",ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,3-Dichloropropylene","1,3-Dichloropropene","1,3-Dichloropropene (Total)",ug/L,0.0005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,Ethylbenzene,Ethylbenzene,Ethyl benzene ,ug/L,0.3,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,1,2,2-Tetrachloroethane","1,1,2,2-Tetrachloroethane","1,1,2,2-Tetrachloroethane ",ug/L,0.001,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,Tetrachloroethylene (PCE),Tetrachloroethylene (PCE),Tetrachloroethylene (PCE),ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,Toluene,Toluene,Toluene ,ug/L,0.15,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,2,4-Trichlorobenzene","1,2,4-Trichlorobenzene","1,2,4-Trichlorobenzene ",ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,1,1-Trichloroethane","1,1,1-Trichloroethane","1,1,1-Trichloroethane ",ug/L,0.2,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,"1,1,2-Trichloroethane","1,1,2-Trichloroethane","1,1,2-Trichloroethane ",ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,Trichloroethylene,Trichloroethylene (TCE),Trichloroethylene (TCE),ug/L,0.005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated VOCs,Vinyl Chloride,Vinyl Chloride (VC),Vinyl chloride (VC) ,ug/L,0.0005,mg/L,MCL,Also in 64444-A
+40 CFR - 131.38,Regulated SOCs,Benzo(a)Pyrene,Benzo(a)pyrene,Benzo (a) Pyrene ,ug/L,0.0002,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Chlordane,Chlordane,Chlordane ,ug/L,0.0001,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Bis(2-Ethylhexyl)Phthalate [Di (2-ethylhexyl) phthalate],Di(2-ethylhexyl)phthalate,Di(2-ethylhexyl)phthalate (DEHP) ,ug/L,0.004,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Endrin,Endrin,Endrin ,ug/L,0.002,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Heptachlor,Heptachlor,Heptachlor ,ug/L,0.00001,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Heptachlor Epoxide,Heptachlor Epoxide,Heptachlor Epoxide ,ug/L,0.00001,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Hexachlorobenzene,Hexachlorobenzene,Hexachlorobenzene ,ug/L,0.001,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Hexachlorocyclopentadiene,Hexachlorocyclopentadiene,Hexachlorocyclopentadiene ,ug/L,0.05,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Gamma-BHC [Lindane],Lindane,Lindane (Gamma-BHC),ug/L,0.0002,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Pentachlorophenol,Pentachlorophenol,PCP ,ug/L,0.001,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Polychlorinatediphenyls (PCBs),Polychlorinated Biphenyls,Polychlorinated Biphenyls (PCBs),ug/L,0.0005,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,Toxaphene,Toxaphene,Toxaphene ,ug/L,0.003,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated SOCs,"2,3,7,8-TCDD (Dioxin)","2,3,7,8-TCDD (Dioxin)","2,3,7,8-TCDD (Dioxin) ",pg/L,3.00E-08,mg/L,MCL,Also in 64444-B
+40 CFR - 131.38,Regulated Disinfection Byproducts,Dichlorobromomethane [Bromodichloromethane],Bromodichloromethane ,Bromodichloromethane ,ug/L,,,,
+40 CFR - 131.38,Regulated Disinfection Byproducts,Bromoform,Bromoform,Bromoform ,ug/L,,,,
+40 CFR - 131.38,Regulated Disinfection Byproducts,Chloroform,Chloroform,Chloroform (Trichloromethane),ug/L,,,,
+40 CFR - 131.38,Regulated Disinfection Byproducts,Chlorodibromomethane [Dibromochloromethane],Dibromochloromethane,Chlorodibromomethane ,ug/L,,,,
+40 CFR - 131.38,Constituents with NLs,Naphthalene,Naphthalene,Naphthalene ,ug/L,0.017,mg/L,NL,
+40 CFR - 131.38,Constituents with NLs,N-Nitrosodimethylamine (NDMA),n-Nitrosodimethylamine (NDMA),N-Nitrosodimethylamine (NDMA),ng/L,1.00E-05,mg/L,NL,
+40 CFR - 131.38,Constituents with NLs,N-Nitrosodi-n-Propylamine (NDPA),n-Nitrosodi-n-propylamine (NDPA),N-Nitrosodi-N-Propylamine (NDPA),ng/L,1.00E-05,mg/L,NL,
+40 CFR - 131.38,Pesticides,Aldrin,Aldrin,Aldrin ,ug/L,,,,
+40 CFR - 131.38,Pesticides,Dieldrin,Dieldrin ,Dieldrin ,ug/L,,,,
+40 CFR - 131.38,Pesticides,"4,4'-DDD","4,4’-DDD","p,p' DDD ",ug/L,,,,
+40 CFR - 131.38,Pesticides,"4,4'-DDE","4,4’-DDE ","p,p' DDE ",ug/L,,,,
+40 CFR - 131.38,Pesticides,"4,4'-DDT","4,4’-DDT ","p,p' DDT ",ug/L,,,,
+40 CFR - 131.38,Pesticides,alpha-BHC,Alpha-BHC ,Alpha-BHC ,ug/L,,,,
+40 CFR - 131.38,Pesticides,beta-BHC,Beta-BHC ,Beta-BHC ,ug/L,,,,
+40 CFR - 131.38,Pesticides,Endosulfan Sulfate,Endosulfan sulfate ,Endosulfan Sulfate ,ug/L,,,,
+40 CFR - 131.38,Pesticides,Endrin Aldehyde,Endrin aldehyde ,Endrin Aldehyde ,ug/L,,,,
+40 CFR - 131.38,Pesticides,alpha-Endosulfan,Alpha-endosulfan ,Endosulfan I (alpha),ug/L,,,,
+40 CFR - 131.38,Pesticides,beta-Endosulfan,Beta-endosulfan ,Endosulfan II (beta) ,ug/L,,,,
+40 CFR - 131.38,Pesticides,delta-BHC,Delta-BHC ,Delta-BHC ,ug/L,,,,
+40 CFR - 131.38,Acid Extractables,"2,4,6-Trichlorophenol","2,4,6-trichlorophenol ","2,4,6-Trichlorophenol ",ug/L,,,,
+40 CFR - 131.38,Acid Extractables,3-Methyl-4-Chlorophenol,P-chloro-m-cresol ,4-Chloro-3-methylphenol ,ug/L,,,,
+40 CFR - 131.38,Acid Extractables,2-Chlorophenol,2-chlorophenol ,2-Chlorophenol ,ug/L,,,,
+40 CFR - 131.38,Acid Extractables,"2,4-Dichlorophenol","2,4-dichlorophenol ",2-Chlorophenol ,ug/L,,,,
+40 CFR - 131.38,Acid Extractables,"2,4-Dimethylphenol","2,4-dimethylphenol ","2,4-Dimethylphenol ",ug/L,,,,
+40 CFR - 131.38,Acid Extractables,2-Nitrophenol,2-nitrophenol ,2-Nitrophenol ,ug/L,,,,
+40 CFR - 131.38,Acid Extractables,4-Nitrophenol,4-nitrophenol ,4-Nitrophenol ,ug/L,,,,
+40 CFR - 131.38,Acid Extractables,"2,4-Dinitrophenol","2,4-dinitrophenol ","2,4-Dinitrophenol ",ug/L,,,,
+40 CFR - 131.38,Acid Extractables,"2-Methyl-4,6-Dinitrophenol","4,6-dinitro-o-cresol ","2-Methyl-4,6-Dinitrophenol ",ug/L,,,,
+40 CFR - 131.38,Acid Extractables,Phenol,Phenol ,Phenol ,ug/L,,,,
+40 CFR - 131.38,Metals,Chromium (III),Chromium III ,Chromium III ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Acenaphthene,Acenaphthene ,"Acenaphthene, Total Weight ",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Benzidine,Benzidine,Benzidine ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Hexachlorobutadiene,Hexachloroethane,Hexachloroethane ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Bis(2-Chloroisopropyl)Ether,Bis(2-chloroethyl)ether,Bis (2-Chloroethyl) Ether ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,2-Chloronaphthalene,2-Chloronaphthalene,2-Chloronaphthalene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,"1,3 Dichlorobenzene","1,3-Dichlorobenzene ","1,3-Dichlorobenzene ",ug/L,0.6,mg/L,,
+40 CFR - 131.38,Base/Neutral Extractables,"3,3'-Dichlorobenzidine","3,3’-Dichlorobenzidine","3,3-Dichlorobenzidine ",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,"2,4-Dinitrotoluene","2,4-Dinitrotoluene ","2,4-Dinitrotoluene ",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,"2,6-Dinitrotoluene","2,6-Dinitrotoluene","2,6-Dinitrotoluene ",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,"1,2-Diphenylhydrazine","1,2-Diphenylhydrazine ","1,2-diphenylhydrazine ",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Fluoranthene,Fluoranthene ,Fluoranthene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,4-Bromophenyl Phenyl Ether,4-Bromophenyl phenyl ether ,4-Bromophenyl Phenyl Ether ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,4-Chlorophenyl Phenyl Ether,4-chlorophenyl phenyl ether ,4-Chlorophenyl Phenyl Ether ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Bis(2-Chloroethoxy)Methane,Bis(2- chloroisopropyl)ether,Bis (2-Chloroethyl) Ether ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Bis(2-Chloroethyl)Ether,Bis(2-chloroethyl)ether,Bis (2-Chloroethyl) Ether ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Hexachloroethane,Hexachloroethane,Hexachloroethane ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Isophorone,Isophorone ,Isophorone ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Nitrobenzene,Nitrobenzene,Nitrobenzene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,N-Nitrosodiphenylamine,N-nitrosodiphenylamine,N-Nitrosodiphenylamine ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Butylbenzyl Phthalate,Butyl benzyl phthalate ,Butylbenzylphthalate ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Di-n-Butyl Phthalate,Di-n-butyl phthalate ,Di-n-Butylphthalate ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Di-n-Octyl Phthalate,Di-n-octyl phthalate ,Di-N-Octylphthalate ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Diethyl Phthalate,Diethyl phthalate ,Diethylphthalate ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Dimethyl Phthalate,Dimethyl phthalate ,Dimethylphthalate ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Benzo(a)Anthracene,Benzo(a)anthracene ,Benzo (a) Anthracene,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Benzo(b)Fluoranthene,Benzo(a)fluoranthene ,Benzo (b) Fluoranthene,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Benzo(k)Fluoranthene,Benzo(k)fluoranthene ,Benzo (k) Fluoranthene,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Chrysene,Chrysene ,Chrysene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Acenaphthylene,Acenaphthylene ,Acenaphthylene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Anthracene,Anthracene ,Anthracene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,"Benzo(ghi)Perylene [1,12-Benzoperylene]","1,12-benzoperylene ","Benzo (g,h,i) Perylene",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Fluorene,Fluorene ,Fluorene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Phenanthrene,Phenanthrene ,Phenanthrene ,ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,"Dibenzo(a,h)Anthracene [1,2,5,6-Dibenzanthracene]","1,2,5,6-dibenzanthracene ","Dibenzo (a,h) Anthracene",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,"Indeno(1,2,3-cd) Pyrene","Indeno(1,2,3-cd)pyrene ","Indeno (1,2,3,c,d) Pyrene ",ug/L,,,,
+40 CFR - 131.38,Base/Neutral Extractables,Pyrene,Pyrene ,Pyrene ,ug/L,,,,
+40 CFR - 131.38,VOCs,Acrolein,Acrolein,Acrolein ,ug/L,,,,
+40 CFR - 131.38,VOCs,Acrylonitrile,Acrylonitrile,Acrylonitrile ,ug/L,,,,
+40 CFR - 131.38,VOCs,Chlorobenzene,Monochlorobenzene,Chlorobenzene ,ug/L,,,,
+40 CFR - 131.38,VOCs,Chloroethane,Chloroethane,Chloroethane ,ug/L,,,,
+40 CFR - 131.38,VOCs,Methyl bromide,Methyl chloride ,Chloromethane (Methyl Chloride),ug/L,,,,
+40 CFR - 131.38,VOCs,Methyl chloride,Methyl bromide ,Bromomethane (Methyl Bromide),ug/L,,,,
+40 CFR - 131.38,VOCs,2-Chloroethylvinyl Ether,2-chloroethyl vinyl ether ,2-Chloroethyl Vinyl Ether ,ug/L,,,,
+NA,Constituents with NLs,,Boron,Boron,mg/L,1,mg/L,NL,Type 0
+NA,Constituents with NLs,,n-Butylbenzene,n-Butylbenzene,ug/L,0.26,mg/L,NL,
+NA,Constituents with NLs,,sec-Butylbenzene,sec-Butylbenzene,ug/L,0.26,mg/L,NL,
+NA,Constituents with NLs,,tert-Butylbenzene,tert-Butylbenzene,ug/L,0.26,mg/L,NL,
+NA,Constituents with NLs,,Carbon Disulfide,Carbon Disulfide,ug/L,0.16,mg/L,NL,
+NA,Constituents with NLs,,Chlorate,Chlorate,ug/L,0.8,mg/L,NL,
+NA,Constituents with NLs,,2-Chlorotoluene,o-Chlorotoluene,ug/L,0.14,mg/L,NL,
+NA,Constituents with NLs,,4-Chlorotoluene,p-Chlorotoluene,ug/L,0.14,mg/L,NL,
+NA,Constituents with NLs,,Diazinon,Diazinon,ug/L,0.0012,mg/L,NL,
+NA,Constituents with NLs,,Dichlorodifluoromethane (Freon 12),Dichlorodifluoromethane (Freon 12),ug/L,1,mg/L,NL,
+NA,Constituents with NLs,,"1,4-Dioxane","1,4-Dioxane",ug/L,0.001,mg/L,NL,
+NA,Constituents with NLs,,Ethylene Glycol,Ethylene Glycol,ug/L,14,mg/L,NL,
+NA,Constituents with NLs,,Formaldehyde,Ethylene Glycol,ug/L,0.1,mg/L,NL,
+NA,Constituents with NLs,,HMX,HMX,ug/L,0.35,mg/L,NL,
+NA,Constituents with NLs,,Isopropylbenzene,Isopropylbenzene,ug/L,0.77,mg/L,NL,
+NA,Constituents with NLs,Manganese,Manganese,Manganese,ug/L,0.5,mg/L,NL,Also SMCL; Type 0
+NA,Constituents with NLs,,Methyl isobutyl ketone (MIBK),4-Methyl-2-Pentanone (MIBK),ug/L,0.12,mg/L,NL,
+NA,Constituents with NLs,,N-Nitrosodiethylamine (NDEA),N-Nitrosodiethylamine (NDEA),ng/L,1.00E-05,mg/L,NL,
+NA,Constituents with NLs,,Perfluorobutanesulfonic acid (PFBS),PFBS,ug/L,0.0005,mg/L,NL,
+NA,Constituents with NLs,,Perfluorohexanesulfonic acid (PFHxS),PFHxS,ug/L,0.000003,mg/L,NL,
+NA,Constituents with NLs,,Perfluorooctanoic acid (PFOA),PFOA,ug/L,0.0000051,mg/L,NL,
+NA,Constituents with NLs,,Perfluorooctanesulfonic acid (PFOS),PFOS,ug/L,0.0000065,mg/L,NL,
+NA,Constituents with NLs,,Propachlor,Propachlor,ug/L,0.09,mg/L,NL,
+NA,Constituents with NLs,,n-Propylbenzene,n-Propylbenzene,ug/L,0.26,mg/L,NL,
+NA,Constituents with NLs,,RDX,RDX,ug/L,0.0003,mg/L,NL,
+NA,Constituents with NLs,,Tertiary Butyl Alcohol (TBA),Tertiary Butyl Alcohol (TBA),ug/L,0.012,mg/L,NL,
+NA,Constituents with NLs,,"1,2,4-Trimethylbenzene","1,2,4-Trimethylbenzene",ug/L,0.33,mg/L,NL,
+NA,Constituents with NLs,,"1,3,5-Trimethylbenzene","1,3,5-Trimethylbenzene",ug/L,0.33,mg/L,NL,
+NA,Constituents with NLs,,"2,4,6-Trinitrotoluene (TNT)","2,4,6-Trinitrotoluene (TNT)",ug/L,0.001,mg/L,NL,
+NA,Constituents with NLs,,Vanadium,Vanadium,ug/L,0.05,mg/L,NL,
+"64444-B, 40 CFR - 131.38",PCBs,,PCB 1016 Aroclor,PCB 1016 Aroclor,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.39",PCBs,,PCB 1221 Aroclor,PCB 1221 Aroclor,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.40",PCBs,,PCB 1232 Aroclor,PCB 1232 Aroclor,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.41",PCBs,,PCB 1242 Aroclor,PCB 1242 Aroclor,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.42",PCBs,,PCB 1248 Aroclor,PCB 1248 Aroclor,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.43",PCBs,,PCB 1254 Aroclor,PCB 1254 Aroclor,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.44",PCBs,,PCB 1260 Aroclor,PCB 1260 Aroclor,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.45",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.46",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,4',5,5'-Octachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.47",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,4',5,6-Octachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.48",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,4',5-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.49",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,4'-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.50",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,5',6'-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.51",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,5',6,6'-Octachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.52",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,5,6'-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.53",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,3',4,5,6,6'-Octachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.54",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4',5',6-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.55",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4',5'-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.56",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4',5,5',6-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.57",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,4',5',6-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.58",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,4',5'-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.59",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,4',5,5',6-Octachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.60",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,4',5,5'-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.61",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,4',5-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.62",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,4',6,6'-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.63",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,5'-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.64",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,4,5,5'-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.65",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,5',6-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.66",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,5'-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.67",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',3,5,5',6-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.68",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',4,4',5-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.69",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',4,5'-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.70",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',4,5,5'-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.71",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',5,5'-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.72",PCBs,,Polychlorinated Biphenyls (PCBs),"2,2',5-Trichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.73",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4',5-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.74",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4'-Trichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.75",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4,4',5',6-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.76",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4,4',5'-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.77",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4,4',5,5'-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.78",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4,4',5-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.79",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4,4',6-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.80",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',4,4'-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.81",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3',6-Trichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.82",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,3',4',6-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.83",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,3',4'-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.84",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,3',4,4',5'-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.85",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,3',4,4',5,5'-Heptachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.86",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,3',4,4',5-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.87",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,3',4,4'-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.88",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,4,4',5-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.89",PCBs,,Polychlorinated Biphenyls (PCBs),"2,3,4,4'-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.90",PCBs,,Polychlorinated Biphenyls (PCBs),"2,4',5-Trichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.91",PCBs,,Polychlorinated Biphenyls (PCBs),"2,4,4',5-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.92",PCBs,,Polychlorinated Biphenyls (PCBs),"2,4,4'-Trichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.93",PCBs,,Polychlorinated Biphenyls (PCBs),"2,4,5-Trichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.94",PCBs,,Polychlorinated Biphenyls (PCBs),"3,3',4,4',5,5'-Hexachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.95",PCBs,,Polychlorinated Biphenyls (PCBs),"3,3',4,4',5-Pentachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.96",PCBs,,Polychlorinated Biphenyls (PCBs),"3,3',4,4'-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.97",PCBs,,Polychlorinated Biphenyls (PCBs),"3,4,4',5-Tetrachlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.98",PCBs,,Polychlorinated Biphenyls (PCBs),"3,4,4'-Trichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.99",PCBs,,Polychlorinated Biphenyls (PCBs),"4,4'-Dichlorobiphenyl",ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
+"64444-B, 40 CFR - 131.100",PCBs,,Polychlorinated Biphenyls (PCBs),Decachlorobiphenyl,ug/L,0.0005,mg/L,MCL,sum limit of all PCBs 0.0005 mg/L
