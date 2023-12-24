@@ -1,0 +1,853 @@
+SAMP_DATE,year,WRD_ID,C_Units,CONSTITUENT STANDARDIZED,STORET,FLAG,VALUE,UNITS,TXT_VALUE,METHOD,DL
+2020-01-08,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,ND,EPA 556,1.0
+2020-01-22,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,,1.1,ug/L,1.1,EPA 556,1.0
+2020-02-12,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,J,EPA 556,1.0
+2020-03-11,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,J,EPA 556,1.0
+2020-04-15,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,J,EPA 556,1.0
+2020-05-06,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,J,EPA 556,1.0
+2020-06-10,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,,1.1,ug/L,1.1,EPA 556,1.0
+2020-07-22,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,J,EPA 556,1.0
+2020-08-12,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,,1.9,ug/L,1.9,EPA 556,1.0
+2020-09-02,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,J,EPA 556,1.0
+2020-10-07,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,,1.1,ug/L,1.1,EPA 556,1.0
+2020-11-04,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,,1.5,ug/L,1.5,EPA 556,1.0
+2020-12-09,2020,570088,Acetaldehyde (ug/L),Acetaldehyde,77001,<,1.0,ug/L,J,EPA 556,1.0
+2020-12-07,2020,570088,Alkalinity (mg/L),Alkalinity,410,,50.0,mg/L,50,SM 2320B,2.0
+2020-12-09,2020,570088,Alkalinity (mg/L),Alkalinity,410,,50.0,mg/L,50,SM 2320B,2.0
+2020-12-10,2020,570088,Alkalinity (mg/L),Alkalinity,410,,48.0,mg/L,48,SM 2320B,2.0
+2020-12-14,2020,570088,Alkalinity (mg/L),Alkalinity,410,,42.0,mg/L,42,SM 2320B,2.0
+2020-12-16,2020,570088,Alkalinity (mg/L),Alkalinity,410,,44.0,mg/L,44,SM 2320B,2.0
+2020-12-17,2020,570088,Alkalinity (mg/L),Alkalinity,410,,46.0,mg/L,46,SM 2320B,2.0
+2020-01-08,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.4,pCi/L,0.4,EPA 900.0,0.0
+2020-01-22,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.42,pCi/L,0.42,EPA 900.0,0.0
+2020-02-12,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.93,pCi/L,0.93,EPA 900.0,0.0
+2020-03-11,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.82,pCi/L,0.82,EPA 900.0,0.0
+2020-04-15,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,1.0,pCi/L,1,EPA 900.0,0.0
+2020-05-06,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.82,pCi/L,0.82,EPA 900.0,0.0
+2020-06-10,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.72,pCi/L,0.72,EPA 900.0,0.0
+2020-07-22,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.46,pCi/L,0.46,EPA 900.0,0.0
+2020-08-12,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.84,pCi/L,0.84,EPA 900.0,0.0
+2020-09-02,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.54,pCi/L,0.54,EPA 900.0,0.0
+2020-10-07,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.63,pCi/L,0.63,EPA 900.0,0.0
+2020-11-04,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.42,pCi/L,0.42,EPA 900.0,0.0
+2020-12-09,2020,570088,"Alpha, Two Sigma Error (pCi/L)","Alpha, Two Sigma Error",1502,,0.6,pCi/L,0.6,EPA 900.0,0.0
+2020-12-07,2020,570088,Anion Sum (meq/L),Anion Sum,4208,,2.8,meq/L,2.8,SM 1030E,0.001
+2020-12-09,2020,570088,Anion Sum (meq/L),Anion Sum,4208,,2.8,meq/L,2.8,SM 1030E,0.001
+2020-12-10,2020,570088,Anion Sum (meq/L),Anion Sum,4208,,3.0,meq/L,3,SM 1030E,0.001
+2020-12-14,2020,570088,Anion Sum (meq/L),Anion Sum,4208,,2.8,meq/L,2.8,SM 1030E,0.001
+2020-12-16,2020,570088,Anion Sum (meq/L),Anion Sum,4208,,2.9,meq/L,2.9,SM 1030E,0.001
+2020-12-17,2020,570088,Anion Sum (meq/L),Anion Sum,4208,,2.9,meq/L,2.9,SM 1030E,0.001
+2020-01-08,2020,570088,Barium (ug/L),Barium,1007,<,2.0,ug/L,ND,EPA 200.8,2.0
+2020-01-22,2020,570088,Barium (ug/L),Barium,1007,<,2.0,ug/L,2,EPA 200.8,2.0
+2020-02-12,2020,570088,Barium (ug/L),Barium,1007,,2.2,ug/L,2.2,EPA 200.8,2.0
+2020-03-11,2020,570088,Barium (ug/L),Barium,1007,,2.5,ug/L,2.5,EPA 200.8,2.0
+2020-04-15,2020,570088,Barium (ug/L),Barium,1007,,2.5,ug/L,2.5,EPA 200.8,2.0
+2020-05-06,2020,570088,Barium (ug/L),Barium,1007,,2.6,ug/L,2.6,EPA 200.8,2.0
+2020-06-10,2020,570088,Barium (ug/L),Barium,1007,,2.1,ug/L,2.1,EPA 200.8,2.0
+2020-07-22,2020,570088,Barium (ug/L),Barium,1007,,2.5,ug/L,2.5,EPA 200.8,2.0
+2020-08-12,2020,570088,Barium (ug/L),Barium,1007,,2.1,ug/L,2.1,EPA 200.8,2.0
+2020-09-02,2020,570088,Barium (ug/L),Barium,1007,,2.4,ug/L,2.4,EPA 200.8,2.0
+2020-10-07,2020,570088,Barium (ug/L),Barium,1007,<,2.0,ug/L,2,EPA 200.8,2.0
+2020-11-04,2020,570088,Barium (ug/L),Barium,1007,<,2.0,ug/L,2,EPA 200.8,2.0
+2020-12-09,2020,570088,Barium (ug/L),Barium,1007,,2.2,ug/L,2.2,EPA 200.8,2.0
+2020-01-08,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.29,pCi/L,0.29,EPA 900.0,0.0
+2020-01-22,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.33,pCi/L,0.33,EPA 900.0,0.0
+2020-02-12,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.66,pCi/L,0.66,EPA 900.0,0.0
+2020-03-11,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.77,pCi/L,0.77,EPA 900.0,0.0
+2020-04-15,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.69,pCi/L,0.69,EPA 900.0,0.0
+2020-05-06,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.61,pCi/L,0.61,EPA 900.0,0.0
+2020-06-10,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.47,pCi/L,0.47,EPA 900.0,0.0
+2020-07-22,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.31,pCi/L,0.31,EPA 900.0,0.0
+2020-08-12,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.55,pCi/L,0.55,EPA 900.0,0.0
+2020-09-02,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.31,pCi/L,0.31,EPA 900.0,0.0
+2020-10-07,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.59,pCi/L,0.59,EPA 900.0,0.0
+2020-11-04,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.32,pCi/L,0.32,EPA 900.0,0.0
+2020-12-09,2020,570088,"Beta, Two Sigma Error (pCi/L)","Beta, Two Sigma Error",3502,,0.3,pCi/L,0.3,EPA 900.0,0.0
+2020-01-08,2020,570088,Boron (mg/L),Boron,1020,,0.18,mg/L,0.18,EPA 200.7,0.05
+2020-01-22,2020,570088,Boron (mg/L),Boron,1020,,0.18,mg/L,0.18,EPA 200.7,0.05
+2020-02-12,2020,570088,Boron (mg/L),Boron,1020,,0.18,mg/L,0.18,EPA 200.7,0.05
+2020-03-11,2020,570088,Boron (mg/L),Boron,1020,,0.18,mg/L,0.18,EPA 200.7,0.05
+2020-04-15,2020,570088,Boron (mg/L),Boron,1020,,0.19,mg/L,0.19,EPA 200.7,0.05
+2020-04-22,2020,570088,Boron (mg/L),Boron,1020,,0.18,mg/L,0.18,EPA 200.7,0.05
+2020-05-06,2020,570088,Boron (mg/L),Boron,1020,,0.18,mg/L,0.18,EPA 200.7,0.05
+2020-06-10,2020,570088,Boron (mg/L),Boron,1020,,0.2,mg/L,0.2,EPA 200.7,0.05
+2020-07-22,2020,570088,Boron (mg/L),Boron,1020,,0.24,mg/L,0.24,EPA 200.7,0.05
+2020-08-12,2020,570088,Boron (mg/L),Boron,1020,,0.23,mg/L,0.23,EPA 200.7,0.05
+2020-08-12,2020,570088,Boron (mg/L),Boron,1020,,0.23,mg/L,0.23,EPA 200.7,0.05
+2020-09-02,2020,570088,Boron (mg/L),Boron,1020,,0.22,mg/L,0.22,EPA 200.7,0.05
+2020-10-07,2020,570088,Boron (mg/L),Boron,1020,,0.19,mg/L,0.19,EPA 200.7,0.05
+2020-10-28,2020,570088,Boron (mg/L),Boron,1020,,0.21,mg/L,0.21,EPA 200.7,0.05
+2020-11-04,2020,570088,Boron (mg/L),Boron,1020,,0.2,mg/L,0.2,EPA 200.7,0.05
+2020-12-09,2020,570088,Boron (mg/L),Boron,1020,,0.22,mg/L,0.22,EPA 200.7,0.05
+2020-01-08,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,1.3,ug/L,1.3,EPA 524.2,0.5
+2020-01-22,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,1.6,ug/L,1.6,EPA 524.2,0.5
+2020-02-12,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,2.4,ug/L,2.4,EPA 524.2,0.5
+2020-03-11,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,<,0.5,ug/L,J,EPA 524.2,0.5
+2020-04-15,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,2.0,ug/L,2,EPA 524.2,0.5
+2020-05-06,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,3.2,ug/L,3.2,EPA 524.2,0.5
+2020-06-30,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,3.1,ug/L,3.1,EPA 524.2,0.5
+2020-07-22,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,2.6,ug/L,2.6,EPA 524.2,0.5
+2020-08-12,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,3.2,ug/L,3.2,EPA 524.2,0.5
+2020-09-02,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,4.1,ug/L,4.1,EPA 524.2,0.5
+2020-10-07,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,5.6,ug/L,5.6,EPA 524.2,0.5
+2020-11-04,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,3.8,ug/L,3.8,EPA 524.2,0.5
+2020-12-09,2020,570088,Bromodichloromethane (ug/L),Bromodichloromethane,32101,,2.0,ug/L,2,EPA 524.2,0.5
+2020-01-08,2020,570088,Calcium (mg/L),Calcium,916,,21.0,mg/L,21,EPA 200.7,1.0
+2020-01-22,2020,570088,Calcium (mg/L),Calcium,916,,21.0,mg/L,21,EPA 200.7,1.0
+2020-02-12,2020,570088,Calcium (mg/L),Calcium,916,,24.0,mg/L,24,EPA 200.7,1.0
+2020-03-11,2020,570088,Calcium (mg/L),Calcium,916,,29.0,mg/L,29,EPA 200.7,1.0
+2020-04-15,2020,570088,Calcium (mg/L),Calcium,916,,30.0,mg/L,30,EPA 200.7,1.0
+2020-04-22,2020,570088,Calcium (mg/L),Calcium,916,,38.0,mg/L,38,EPA 200.7,1.0
+2020-05-06,2020,570088,Calcium (mg/L),Calcium,916,,29.0,mg/L,29,EPA 200.7,1.0
+2020-06-10,2020,570088,Calcium (mg/L),Calcium,916,,26.0,mg/L,26,EPA 200.7,1.0
+2020-07-22,2020,570088,Calcium (mg/L),Calcium,916,,28.0,mg/L,28,EPA 200.7,1.0
+2020-08-12,2020,570088,Calcium (mg/L),Calcium,916,,27.0,mg/L,27,EPA 200.7,1.0
+2020-08-12,2020,570088,Calcium (mg/L),Calcium,916,,27.0,mg/L,27,EPA 200.7,1.0
+2020-09-02,2020,570088,Calcium (mg/L),Calcium,916,,26.0,mg/L,26,EPA 200.7,1.0
+2020-10-07,2020,570088,Calcium (mg/L),Calcium,916,,21.0,mg/L,21,EPA 200.7,1.0
+2020-10-28,2020,570088,Calcium (mg/L),Calcium,916,,24.0,mg/L,24,EPA 200.7,1.0
+2020-11-04,2020,570088,Calcium (mg/L),Calcium,916,,25.0,mg/L,25,EPA 200.7,1.0
+2020-12-07,2020,570088,Calcium (mg/L),Calcium,916,,25.0,mg/L,25,EPA 200.7,1.0
+2020-12-09,2020,570088,Calcium (mg/L),Calcium,916,,25.0,mg/L,25,EPA 200.7,1.0
+2020-12-09,2020,570088,Calcium (mg/L),Calcium,916,,24.0,mg/L,24,EPA 200.7,1.0
+2020-12-10,2020,570088,Calcium (mg/L),Calcium,916,,27.0,mg/L,27,EPA 200.7,1.0
+2020-12-14,2020,570088,Calcium (mg/L),Calcium,916,,26.0,mg/L,26,EPA 200.7,1.0
+2020-12-16,2020,570088,Calcium (mg/L),Calcium,916,,28.0,mg/L,28,EPA 200.7,1.0
+2020-12-17,2020,570088,Calcium (mg/L),Calcium,916,,28.0,mg/L,28,EPA 200.7,1.0
+2020-12-07,2020,570088,Cation Sum (meq/L),Cation Sum,4226,,2.7,meq/L,2.7,SM 1030E,0.001
+2020-12-09,2020,570088,Cation Sum (meq/L),Cation Sum,4226,,2.6,meq/L,2.6,SM 1030E,0.001
+2020-12-10,2020,570088,Cation Sum (meq/L),Cation Sum,4226,,2.8,meq/L,2.8,SM 1030E,0.001
+2020-12-14,2020,570088,Cation Sum (meq/L),Cation Sum,4226,,2.6,meq/L,2.6,SM 1030E,0.001
+2020-12-16,2020,570088,Cation Sum (meq/L),Cation Sum,4226,,2.8,meq/L,2.8,SM 1030E,0.001
+2020-12-17,2020,570088,Cation Sum (meq/L),Cation Sum,4226,,2.8,meq/L,2.8,SM 1030E,0.001
+2020-01-08,2020,570088,Chlorate (ug/L),Chlorate,A-037,,210.0,ug/L,210,EPA 300.0,10.0
+2020-01-22,2020,570088,Chlorate (ug/L),Chlorate,A-037,,250.0,ug/L,250,EPA 300.0,10.0
+2020-02-12,2020,570088,Chlorate (ug/L),Chlorate,A-037,,270.0,ug/L,270,EPA 300.0,10.0
+2020-03-11,2020,570088,Chlorate (ug/L),Chlorate,A-037,,350.0,ug/L,350,EPA 300.0,10.0
+2020-04-15,2020,570088,Chlorate (ug/L),Chlorate,A-037,,200.0,ug/L,200,EPA 300.0,10.0
+2020-05-06,2020,570088,Chlorate (ug/L),Chlorate,A-037,,240.0,ug/L,240,EPA 300.0,10.0
+2020-06-10,2020,570088,Chlorate (ug/L),Chlorate,A-037,,420.0,ug/L,420,EPA 300.0,10.0
+2020-07-22,2020,570088,Chlorate (ug/L),Chlorate,A-037,,550.0,ug/L,550,EPA 300.0,10.0
+2020-08-12,2020,570088,Chlorate (ug/L),Chlorate,A-037,,360.0,ug/L,360,EPA 300.0,10.0
+2020-09-02,2020,570088,Chlorate (ug/L),Chlorate,A-037,,500.0,ug/L,500,EPA 300.0,10.0
+2020-10-07,2020,570088,Chlorate (ug/L),Chlorate,A-037,,340.0,ug/L,340,EPA 300.0,10.0
+2020-11-04,2020,570088,Chlorate (ug/L),Chlorate,A-037,,440.0,ug/L,440,EPA 300.0,10.0
+2020-12-09,2020,570088,Chlorate (ug/L),Chlorate,A-037,,170.0,ug/L,170,EPA 300.0,10.0
+2020-01-08,2020,570088,Chloride (mg/L),Chloride,940,,47.0,mg/L,47,EPA 300.0,0.5
+2020-01-22,2020,570088,Chloride (mg/L),Chloride,940,,49.0,mg/L,49,EPA 300.0,1.0
+2020-02-12,2020,570088,Chloride (mg/L),Chloride,940,,56.0,mg/L,56,EPA 300.0,1.0
+2020-03-11,2020,570088,Chloride (mg/L),Chloride,940,,65.0,mg/L,65,EPA 300.0,1.0
+2020-04-15,2020,570088,Chloride (mg/L),Chloride,940,,70.0,mg/L,70,EPA 300.0,1.0
+2020-04-22,2020,570088,Chloride (mg/L),Chloride,940,,82.0,mg/L,82,EPA 300.0,1.0
+2020-05-06,2020,570088,Chloride (mg/L),Chloride,940,,69.0,mg/L,69,EPA 300.0,1.0
+2020-06-10,2020,570088,Chloride (mg/L),Chloride,940,,61.0,mg/L,61,EPA 300.0,1.0
+2020-07-22,2020,570088,Chloride (mg/L),Chloride,940,,65.0,mg/L,65,EPA 300.0,1.0
+2020-08-12,2020,570088,Chloride (mg/L),Chloride,940,,65.0,mg/L,65,EPA 300.0,1.0
+2020-08-12,2020,570088,Chloride (mg/L),Chloride,940,,65.0,mg/L,65,EPA 300.0,1.0
+2020-09-02,2020,570088,Chloride (mg/L),Chloride,940,,65.0,mg/L,65,EPA 300.0,1.0
+2020-10-07,2020,570088,Chloride (mg/L),Chloride,940,,53.0,mg/L,53,EPA 300.0,1.0
+2020-10-28,2020,570088,Chloride (mg/L),Chloride,940,,59.0,mg/L,59,EPA 300.0,1.0
+2020-11-04,2020,570088,Chloride (mg/L),Chloride,940,,61.0,mg/L,61,EPA 300.0,1.0
+2020-12-07,2020,570088,Chloride (mg/L),Chloride,940,,61.0,mg/L,61,EPA 300.0,1.0
+2020-12-09,2020,570088,Chloride (mg/L),Chloride,940,,58.0,mg/L,58,EPA 300.0,1.0
+2020-12-09,2020,570088,Chloride (mg/L),Chloride,940,,58.0,mg/L,58,EPA 300.0,1.0
+2020-12-10,2020,570088,Chloride (mg/L),Chloride,940,,64.0,mg/L,64,EPA 300.0,1.0
+2020-12-14,2020,570088,Chloride (mg/L),Chloride,940,,63.0,mg/L,63,EPA 300.0,1.0
+2020-12-16,2020,570088,Chloride (mg/L),Chloride,940,,68.0,mg/L,68,EPA 300.0,1.0
+2020-12-17,2020,570088,Chloride (mg/L),Chloride,940,,67.0,mg/L,67,EPA 300.0,1.0
+2020-01-08,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,6.0,ug/L,6,EPA 524.2,0.5
+2020-01-22,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,6.0,ug/L,6,EPA 524.2,0.5
+2020-02-12,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,6.9,ug/L,6.9,EPA 524.2,0.5
+2020-03-11,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,2.2,ug/L,2.2,EPA 524.2,0.5
+2020-04-15,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,6.7,ug/L,6.7,EPA 524.2,0.5
+2020-05-06,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,11.0,ug/L,11,EPA 524.2,0.5
+2020-06-30,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,13.0,ug/L,13,EPA 524.2,0.5
+2020-07-22,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,9.4,ug/L,9.4,EPA 524.2,0.5
+2020-08-12,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,13.0,ug/L,13,EPA 524.2,0.5
+2020-09-02,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,12.0,ug/L,12,EPA 524.2,0.5
+2020-10-07,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,15.0,ug/L,15,EPA 524.2,0.5
+2020-11-04,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,17.0,ug/L,17,EPA 524.2,0.5
+2020-12-09,2020,570088,Chloroform (Trichloromethane) (ug/L),Chloroform (Trichloromethane),32106,,9.4,ug/L,9.4,EPA 524.2,0.5
+2020-01-08,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,55.0,mg/L,55,SM 2340B,3.0
+2020-01-22,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,55.0,mg/L,55,SM 2340B,3.0
+2020-02-12,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,63.0,mg/L,63,SM 2340B,3.0
+2020-03-11,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,76.0,mg/L,76,SM 2340B,3.0
+2020-04-15,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,79.0,mg/L,79,SM 2340B,3.0
+2020-04-22,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,99.0,mg/L,99,SM 2340B,3.0
+2020-05-06,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,76.0,mg/L,76,SM 2340B,3.0
+2020-06-10,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,68.0,mg/L,68,SM 2340B,3.0
+2020-07-22,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,73.0,mg/L,73,SM 2340B,3.0
+2020-08-12,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,70.0,mg/L,70,SM 2340B,3.0
+2020-08-12,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,70.0,mg/L,70,SM 2340B,3.0
+2020-09-02,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,68.0,mg/L,68,SM 2340B,3.0
+2020-10-07,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,55.0,mg/L,55,SM 2340B,3.0
+2020-10-28,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,63.0,mg/L,63,SM 2340B,3.0
+2020-11-04,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,65.0,mg/L,65,SM 2340B,3.0
+2020-12-09,2020,570088,"Hardness (Total, as CaCO3) (mg/L)","Hardness (Total, as CaCO3)",900,,65.0,mg/L,65,SM 2340B,3.0
+2020-11-06,2020,570088,Heterotrophic Plate Count (CFU/ml),Heterotrophic Plate Count,31748,,76.0,CFU/ml,76,SM 9215B,1.0
+2020-12-07,2020,570088,Heterotrophic Plate Count (CFU/ml),Heterotrophic Plate Count,31748,>,5700.0,CFU/ml,5700,SM 9215B,1.0
+2020-12-09,2020,570088,Heterotrophic Plate Count (CFU/ml),Heterotrophic Plate Count,31748,>,5700.0,CFU/ml,5700,SM 9215B,1.0
+2020-12-10,2020,570088,Heterotrophic Plate Count (CFU/ml),Heterotrophic Plate Count,31748,>,5700.0,CFU/ml,5700,SM 9215B,1.0
+2020-12-14,2020,570088,Heterotrophic Plate Count (CFU/ml),Heterotrophic Plate Count,31748,,20.0,CFU/ml,20,SM 9215B,1.0
+2020-12-16,2020,570088,Heterotrophic Plate Count (CFU/ml),Heterotrophic Plate Count,31748,,390.0,CFU/ml,390,SM 9215B,1.0
+2020-12-17,2020,570088,Heterotrophic Plate Count (CFU/ml),Heterotrophic Plate Count,31748,,190.0,CFU/ml,190,SM 9215B,1.0
+2020-01-08,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.34,ug/L,0.34,EPA 218.6,0.02
+2020-01-22,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.14,ug/L,0.14,EPA 218.6,0.02
+2020-02-12,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.27,ug/L,0.27,EPA 218.6,0.02
+2020-03-11,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.19,ug/L,0.19,EPA 218.6,0.02
+2020-04-15,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.22,ug/L,0.22,EPA 218.6,0.02
+2020-05-06,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.054,ug/L,0.054,EPA 218.6,0.02
+2020-06-10,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.041,ug/L,0.041,EPA 218.6,0.02
+2020-07-22,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.033,ug/L,0.033,EPA 218.6,0.02
+2020-08-12,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.031,ug/L,0.031,EPA 218.6,0.02
+2020-09-02,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.026,ug/L,0.026,EPA 218.6,0.02
+2020-10-07,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.022,ug/L,0.022,EPA 218.6,0.02
+2020-11-04,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,,0.053,ug/L,0.053,EPA 218.6,0.02
+2020-12-09,2020,570088,Hexavalent Chromium (Cr VI) (ug/L),Hexavalent Chromium (Cr VI),1032,<,0.02,ug/L,J,EPA 218.6,0.02
+2020-01-08,2020,570088,Magnesium (mg/L),Magnesium,927,,0.66,mg/L,0.66,EPA 200.7,0.1
+2020-01-22,2020,570088,Magnesium (mg/L),Magnesium,927,,0.66,mg/L,0.66,EPA 200.7,0.1
+2020-02-12,2020,570088,Magnesium (mg/L),Magnesium,927,,0.73,mg/L,0.73,EPA 200.7,0.1
+2020-03-11,2020,570088,Magnesium (mg/L),Magnesium,927,,0.89,mg/L,0.89,EPA 200.7,0.1
+2020-04-15,2020,570088,Magnesium (mg/L),Magnesium,927,,0.93,mg/L,0.93,EPA 200.7,0.1
+2020-04-22,2020,570088,Magnesium (mg/L),Magnesium,927,,1.1,mg/L,1.1,EPA 200.7,0.1
+2020-05-06,2020,570088,Magnesium (mg/L),Magnesium,927,,0.88,mg/L,0.88,EPA 200.7,0.1
+2020-06-10,2020,570088,Magnesium (mg/L),Magnesium,927,,0.74,mg/L,0.74,EPA 200.7,0.1
+2020-07-22,2020,570088,Magnesium (mg/L),Magnesium,927,,0.78,mg/L,0.78,EPA 200.7,0.1
+2020-08-12,2020,570088,Magnesium (mg/L),Magnesium,927,,0.75,mg/L,0.75,EPA 200.7,0.1
+2020-08-12,2020,570088,Magnesium (mg/L),Magnesium,927,,0.74,mg/L,0.74,EPA 200.7,0.1
+2020-09-02,2020,570088,Magnesium (mg/L),Magnesium,927,,0.73,mg/L,0.73,EPA 200.7,0.1
+2020-10-07,2020,570088,Magnesium (mg/L),Magnesium,927,,0.58,mg/L,0.58,EPA 200.7,0.1
+2020-10-28,2020,570088,Magnesium (mg/L),Magnesium,927,,0.66,mg/L,0.66,EPA 200.7,0.1
+2020-11-04,2020,570088,Magnesium (mg/L),Magnesium,927,,0.71,mg/L,0.71,EPA 200.7,0.1
+2020-12-07,2020,570088,Magnesium (mg/L),Magnesium,927,,0.73,mg/L,0.73,EPA 200.7,0.1
+2020-12-09,2020,570088,Magnesium (mg/L),Magnesium,927,,0.73,mg/L,0.73,EPA 200.7,0.1
+2020-12-09,2020,570088,Magnesium (mg/L),Magnesium,927,,0.71,mg/L,0.71,EPA 200.7,0.1
+2020-12-10,2020,570088,Magnesium (mg/L),Magnesium,927,,0.8,mg/L,0.8,EPA 200.7,0.1
+2020-12-14,2020,570088,Magnesium (mg/L),Magnesium,927,,0.79,mg/L,0.79,EPA 200.7,0.1
+2020-12-16,2020,570088,Magnesium (mg/L),Magnesium,927,,0.85,mg/L,0.85,EPA 200.7,0.1
+2020-12-17,2020,570088,Magnesium (mg/L),Magnesium,927,,0.86,mg/L,0.86,EPA 200.7,0.1
+2020-01-03,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.22,mg/L,0.22,EPA 300.0,0.2
+2020-01-06,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.25,mg/L,0.25,EPA 300.0,0.1
+2020-01-09,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.32,mg/L,0.32,EPA 300.0,0.1
+2020-01-13,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.28,mg/L,0.28,EPA 300.0,0.1
+2020-01-16,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.26,mg/L,0.26,EPA 300.0,0.1
+2020-01-20,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.32,mg/L,0.32,EPA 300.0,0.1
+2020-01-23,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.26,mg/L,0.26,EPA 300.0,0.2
+2020-01-28,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.15,mg/L,0.15,EPA 300.0,0.1
+2020-01-31,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.35,mg/L,0.35,EPA 300.0,0.1
+2020-02-03,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.43,mg/L,0.43,EPA 300.0,0.1
+2020-02-06,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.22,mg/L,0.22,EPA 300.0,0.1
+2020-02-10,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.29,mg/L,0.29,EPA 300.0,0.25
+2020-02-13,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-02-17,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-02-20,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.37,mg/L,0.37,EPA 300.0,0.1
+2020-02-24,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.39,mg/L,0.39,EPA 300.0,0.1
+2020-02-27,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.34,mg/L,0.34,EPA 300.0,0.1
+2020-03-02,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.53,mg/L,0.53,EPA 300.0,0.1
+2020-03-05,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-03-09,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-03-12,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-03-16,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-03-19,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-03-23,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.39,mg/L,0.39,EPA 300.0,0.1
+2020-03-26,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.61,mg/L,0.61,EPA 300.0,0.1
+2020-03-30,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.58,mg/L,0.58,EPA 300.0,0.1
+2020-04-02,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.3,mg/L,0.3,EPA 300.0,0.1
+2020-04-06,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.45,mg/L,0.45,EPA 300.0,0.1
+2020-04-09,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.45,mg/L,0.45,EPA 300.0,0.1
+2020-04-14,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-04-16,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-04-20,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-04-23,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.38,mg/L,0.38,EPA 300.0,0.1
+2020-04-27,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-04-30,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.38,mg/L,0.38,EPA 300.0,0.1
+2020-05-04,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.46,mg/L,0.46,EPA 300.0,0.2
+2020-05-07,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-05-11,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-05-14,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-05-18,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-05-21,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-05-26,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.58,mg/L,0.58,EPA 300.0,0.1
+2020-05-28,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.52,mg/L,0.52,EPA 300.0,0.1
+2020-06-01,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.56,mg/L,0.56,EPA 300.0,0.1
+2020-06-04,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-06-08,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.67,mg/L,0.67,EPA 300.0,0.1
+2020-06-11,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-06-15,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.76,mg/L,0.76,EPA 300.0,0.1
+2020-06-18,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.75,mg/L,0.75,EPA 300.0,0.1
+2020-06-22,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.57,mg/L,0.57,EPA 300.0,0.1
+2020-06-25,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.46,mg/L,0.46,EPA 300.0,0.1
+2020-06-29,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.64,mg/L,0.64,EPA 300.0,0.1
+2020-07-02,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.53,mg/L,0.53,EPA 300.0,0.1
+2020-07-06,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.55,mg/L,0.55,EPA 300.0,0.1
+2020-07-09,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-07-13,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-07-16,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.44,mg/L,0.44,EPA 300.0,0.2
+2020-07-20,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-07-23,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.34,mg/L,0.34,EPA 300.0,0.1
+2020-07-27,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-07-30,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.38,mg/L,0.38,EPA 300.0,0.1
+2020-08-03,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-08-06,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.55,mg/L,0.55,EPA 300.0,0.1
+2020-08-10,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.6,mg/L,0.6,EPA 300.0,0.1
+2020-08-15,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.43,mg/L,0.43,EPA 300.0,0.1
+2020-08-17,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-08-20,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-08-24,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.46,mg/L,0.46,EPA 300.0,0.1
+2020-08-27,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.38,mg/L,0.38,EPA 300.0,0.2
+2020-08-31,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.56,mg/L,0.56,EPA 300.0,0.1
+2020-09-03,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.52,mg/L,0.52,EPA 300.0,0.2
+2020-09-07,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.83,mg/L,0.83,EPA 300.0,0.1
+2020-09-10,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.56,mg/L,0.56,EPA 300.0,0.2
+2020-09-14,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.2
+2020-09-17,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.53,mg/L,0.53,EPA 300.0,0.2
+2020-09-21,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.2
+2020-09-25,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.52,mg/L,0.52,EPA 300.0,0.2
+2020-09-28,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.2
+2020-10-01,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.2
+2020-10-05,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.6,mg/L,0.6,EPA 300.0,0.1
+2020-10-08,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.74,mg/L,0.74,EPA 300.0,0.1
+2020-10-12,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.73,mg/L,0.73,EPA 300.0,0.1
+2020-10-15,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.46,mg/L,0.46,EPA 300.0,0.1
+2020-10-19,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-10-22,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.37,mg/L,0.37,EPA 300.0,0.05
+2020-10-26,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.61,mg/L,0.61,EPA 300.0,0.1
+2020-10-29,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-11-02,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-11-05,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-11-09,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-11-12,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.33,mg/L,0.33,EPA 300.0,0.1
+2020-11-16,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-11-19,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-11-23,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.32,mg/L,0.32,EPA 300.0,0.1
+2020-11-27,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.29,mg/L,0.29,EPA 300.0,0.1
+2020-11-30,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-12-03,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-12-07,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.39,mg/L,0.39,EPA 300.0,0.2
+2020-12-07,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-12-09,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.31,mg/L,0.31,EPA 300.0,0.2
+2020-12-10,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-12-10,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.4,mg/L,0.4,EPA 300.0,0.2
+2020-12-14,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-12-14,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.44,mg/L,0.44,EPA 300.0,0.2
+2020-12-16,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.65,mg/L,0.65,EPA 300.0,0.2
+2020-12-17,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-12-17,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.44,mg/L,0.44,EPA 300.0,0.2
+2020-12-21,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.35,mg/L,0.35,EPA 300.0,0.1
+2020-12-24,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-12-28,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.33,mg/L,0.33,EPA 300.0,0.1
+2020-12-30,2020,570088,Nitrate (as N) (mg/L),Nitrate (as N),620,,0.35,mg/L,0.35,EPA 300.0,0.1
+2020-01-03,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,0.96,mg/L,0.96,EPA 300.0,0.88
+2020-01-06,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.1,mg/L,1.1,EPA 300.0,0.44
+2020-01-09,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.4,mg/L,1.4,EPA 300.0,0.44
+2020-01-13,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.2,mg/L,1.2,EPA 300.0,0.44
+2020-01-16,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.2,mg/L,1.2,EPA 300.0,0.44
+2020-01-20,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.4,mg/L,1.4,EPA 300.0,0.44
+2020-01-23,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.2,mg/L,1.2,EPA 300.0,0.88
+2020-01-28,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,0.67,mg/L,0.67,EPA 300.0,0.44
+2020-01-31,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-02-03,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-02-06,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,0.99,mg/L,0.99,EPA 300.0,0.44
+2020-02-10,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.3,mg/L,1.3,EPA 300.0,1.1
+2020-02-13,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-02-17,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-02-20,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-02-24,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.7,mg/L,1.7,EPA 300.0,0.44
+2020-02-27,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.5,mg/L,1.5,EPA 300.0,0.44
+2020-03-02,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.3,mg/L,2.3,EPA 300.0,0.44
+2020-03-05,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-03-09,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-03-12,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-03-16,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-03-19,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-03-23,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.7,mg/L,1.7,EPA 300.0,0.44
+2020-03-26,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.7,mg/L,2.7,EPA 300.0,0.44
+2020-03-30,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.6,mg/L,2.6,EPA 300.0,0.44
+2020-04-02,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.3,mg/L,1.3,EPA 300.0,0.44
+2020-04-06,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.44
+2020-04-09,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.44
+2020-04-14,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-04-16,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-04-20,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-04-23,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.7,mg/L,1.7,EPA 300.0,0.44
+2020-04-27,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.44
+2020-04-30,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.7,mg/L,1.7,EPA 300.0,0.44
+2020-05-04,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.88
+2020-05-07,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-05-11,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.1,mg/L,2.1,EPA 300.0,0.44
+2020-05-14,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-05-18,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.44
+2020-05-21,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-05-26,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.6,mg/L,2.6,EPA 300.0,0.44
+2020-05-28,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.3,mg/L,2.3,EPA 300.0,0.44
+2020-06-01,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.5,mg/L,2.5,EPA 300.0,0.44
+2020-06-04,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.44
+2020-06-08,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,3.0,mg/L,3,EPA 300.0,0.44
+2020-06-11,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.1,mg/L,2.1,EPA 300.0,0.44
+2020-06-15,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,3.4,mg/L,3.4,EPA 300.0,0.44
+2020-06-18,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,3.3,mg/L,3.3,EPA 300.0,0.44
+2020-06-22,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.5,mg/L,2.5,EPA 300.0,0.44
+2020-06-25,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.44
+2020-06-29,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.8,mg/L,2.8,EPA 300.0,0.44
+2020-07-02,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-07-06,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-07-09,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-07-13,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-07-16,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.88
+2020-07-20,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-07-23,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.5,mg/L,1.5,EPA 300.0,0.44
+2020-07-27,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.1,mg/L,2.1,EPA 300.0,0.44
+2020-07-30,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.7,mg/L,1.7,EPA 300.0,0.44
+2020-08-03,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-08-06,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-08-10,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.7,mg/L,2.7,EPA 300.0,0.44
+2020-08-15,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-08-17,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-08-20,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.1,mg/L,2.1,EPA 300.0,0.44
+2020-08-24,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.44
+2020-08-27,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.7,mg/L,1.7,EPA 300.0,0.88
+2020-08-31,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.5,mg/L,2.5,EPA 300.0,0.44
+2020-09-03,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.3,mg/L,2.3,EPA 300.0,0.88
+2020-09-07,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,3.7,mg/L,3.7,EPA 300.0,0.44
+2020-09-10,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.5,mg/L,2.5,EPA 300.0,0.88
+2020-09-14,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.88
+2020-09-17,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.3,mg/L,2.3,EPA 300.0,0.88
+2020-09-21,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.88
+2020-09-25,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.3,mg/L,2.3,EPA 300.0,0.88
+2020-09-28,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.88
+2020-10-01,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.88
+2020-10-05,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.7,mg/L,2.7,EPA 300.0,0.44
+2020-10-08,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,3.3,mg/L,3.3,EPA 300.0,0.44
+2020-10-12,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,3.2,mg/L,3.2,EPA 300.0,0.44
+2020-10-15,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.44
+2020-10-19,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-10-22,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.22
+2020-10-26,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.7,mg/L,2.7,EPA 300.0,0.44
+2020-10-29,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-11-02,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-11-05,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-11-09,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-11-12,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.4,mg/L,1.4,EPA 300.0,0.44
+2020-11-16,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-11-19,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-11-23,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.4,mg/L,1.4,EPA 300.0,0.44
+2020-11-27,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.3,mg/L,1.3,EPA 300.0,0.44
+2020-11-30,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-12-03,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.9,mg/L,1.9,EPA 300.0,0.44
+2020-12-07,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.7,mg/L,1.7,EPA 300.0,0.88
+2020-12-07,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-12-09,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.4,mg/L,1.4,EPA 300.0,0.88
+2020-12-10,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.44
+2020-12-10,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.8,mg/L,1.8,EPA 300.0,0.88
+2020-12-14,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.2,mg/L,2.2,EPA 300.0,0.44
+2020-12-14,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.88
+2020-12-16,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.9,mg/L,2.9,EPA 300.0,0.88
+2020-12-17,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.4,mg/L,2.4,EPA 300.0,0.44
+2020-12-17,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.88
+2020-12-21,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-12-24,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,2.0,mg/L,2,EPA 300.0,0.44
+2020-12-28,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.4,mg/L,1.4,EPA 300.0,0.44
+2020-12-30,2020,570088,Nitrate (as NO3) (mg/L),Nitrate (as NO3),71850,,1.6,mg/L,1.6,EPA 300.0,0.44
+2020-01-08,2020,570088,Potassium (mg/L),Potassium,937,,2.1,mg/L,2.1,EPA 200.7,1.0
+2020-01-22,2020,570088,Potassium (mg/L),Potassium,937,,2.2,mg/L,2.2,EPA 200.7,1.0
+2020-02-12,2020,570088,Potassium (mg/L),Potassium,937,,2.4,mg/L,2.4,EPA 200.7,1.0
+2020-03-11,2020,570088,Potassium (mg/L),Potassium,937,,2.7,mg/L,2.7,EPA 200.7,1.0
+2020-04-15,2020,570088,Potassium (mg/L),Potassium,937,,2.8,mg/L,2.8,EPA 200.7,1.0
+2020-04-22,2020,570088,Potassium (mg/L),Potassium,937,,3.4,mg/L,3.4,EPA 200.7,1.0
+2020-05-06,2020,570088,Potassium (mg/L),Potassium,937,,2.8,mg/L,2.8,EPA 200.7,1.0
+2020-06-10,2020,570088,Potassium (mg/L),Potassium,937,,2.7,mg/L,2.7,EPA 200.7,1.0
+2020-07-22,2020,570088,Potassium (mg/L),Potassium,937,,3.1,mg/L,3.1,EPA 200.7,1.0
+2020-08-12,2020,570088,Potassium (mg/L),Potassium,937,,2.8,mg/L,2.8,EPA 200.7,1.0
+2020-08-12,2020,570088,Potassium (mg/L),Potassium,937,,2.8,mg/L,2.8,EPA 200.7,1.0
+2020-09-02,2020,570088,Potassium (mg/L),Potassium,937,,3.1,mg/L,3.1,EPA 200.7,1.0
+2020-10-07,2020,570088,Potassium (mg/L),Potassium,937,,2.4,mg/L,2.4,EPA 200.7,1.0
+2020-10-28,2020,570088,Potassium (mg/L),Potassium,937,,2.5,mg/L,2.5,EPA 200.7,1.0
+2020-11-04,2020,570088,Potassium (mg/L),Potassium,937,,2.8,mg/L,2.8,EPA 200.7,1.0
+2020-12-07,2020,570088,Potassium (mg/L),Potassium,937,,2.6,mg/L,2.6,EPA 200.7,1.0
+2020-12-09,2020,570088,Potassium (mg/L),Potassium,937,,2.6,mg/L,2.6,EPA 200.7,1.0
+2020-12-09,2020,570088,Potassium (mg/L),Potassium,937,,2.4,mg/L,2.4,EPA 200.7,1.0
+2020-12-10,2020,570088,Potassium (mg/L),Potassium,937,,2.6,mg/L,2.6,EPA 200.7,1.0
+2020-12-14,2020,570088,Potassium (mg/L),Potassium,937,,2.5,mg/L,2.5,EPA 200.7,1.0
+2020-12-16,2020,570088,Potassium (mg/L),Potassium,937,,2.7,mg/L,2.7,EPA 200.7,1.0
+2020-12-17,2020,570088,Potassium (mg/L),Potassium,937,,2.7,mg/L,2.7,EPA 200.7,1.0
+2020-01-08,2020,570088,Sodium (mg/L),Sodium,929,,29.0,mg/L,29,EPA 200.7,1.0
+2020-01-22,2020,570088,Sodium (mg/L),Sodium,929,,26.0,mg/L,26,EPA 200.7,1.0
+2020-02-12,2020,570088,Sodium (mg/L),Sodium,929,,27.0,mg/L,27,EPA 200.7,1.0
+2020-03-11,2020,570088,Sodium (mg/L),Sodium,929,,20.0,mg/L,20,EPA 200.7,1.0
+2020-04-15,2020,570088,Sodium (mg/L),Sodium,929,,24.0,mg/L,24,EPA 200.7,1.0
+2020-04-22,2020,570088,Sodium (mg/L),Sodium,929,,26.0,mg/L,26,EPA 200.7,1.0
+2020-05-06,2020,570088,Sodium (mg/L),Sodium,929,,29.0,mg/L,29,EPA 200.7,1.0
+2020-06-10,2020,570088,Sodium (mg/L),Sodium,929,,29.0,mg/L,29,EPA 200.7,1.0
+2020-07-22,2020,570088,Sodium (mg/L),Sodium,929,,32.0,mg/L,32,EPA 200.7,1.0
+2020-08-12,2020,570088,Sodium (mg/L),Sodium,929,,27.0,mg/L,27,EPA 200.7,1.0
+2020-08-12,2020,570088,Sodium (mg/L),Sodium,929,,29.0,mg/L,29,EPA 200.7,1.0
+2020-09-02,2020,570088,Sodium (mg/L),Sodium,929,,32.0,mg/L,32,EPA 200.7,1.0
+2020-10-07,2020,570088,Sodium (mg/L),Sodium,929,,31.0,mg/L,31,EPA 200.7,1.0
+2020-10-28,2020,570088,Sodium (mg/L),Sodium,929,,30.0,mg/L,30,EPA 200.7,1.0
+2020-11-04,2020,570088,Sodium (mg/L),Sodium,929,,30.0,mg/L,30,EPA 200.7,1.0
+2020-12-07,2020,570088,Sodium (mg/L),Sodium,929,,29.0,mg/L,29,EPA 200.7,1.0
+2020-12-09,2020,570088,Sodium (mg/L),Sodium,929,,30.0,mg/L,30,EPA 200.7,1.0
+2020-12-09,2020,570088,Sodium (mg/L),Sodium,929,,30.0,mg/L,30,EPA 200.7,1.0
+2020-12-10,2020,570088,Sodium (mg/L),Sodium,929,,31.0,mg/L,31,EPA 200.7,1.0
+2020-12-14,2020,570088,Sodium (mg/L),Sodium,929,,27.0,mg/L,27,EPA 200.7,1.0
+2020-12-16,2020,570088,Sodium (mg/L),Sodium,929,,29.0,mg/L,29,EPA 200.7,1.0
+2020-12-17,2020,570088,Sodium (mg/L),Sodium,929,,30.0,mg/L,30,EPA 200.7,1.0
+2020-12-07,2020,570088,Specific Conductance (umho/cm),Specific Conductance,95,,300.0,umho/cm,300,SM2510B,10.0
+2020-12-09,2020,570088,Specific Conductance (umho/cm),Specific Conductance,95,,300.0,umho/cm,300,SM2510B,2.0
+2020-12-10,2020,570088,Specific Conductance (umho/cm),Specific Conductance,95,,330.0,umho/cm,330,SM2510B,10.0
+2020-12-14,2020,570088,Specific Conductance (umho/cm),Specific Conductance,95,,290.0,umho/cm,290,SM2510B,2.0
+2020-12-16,2020,570088,Specific Conductance (umho/cm),Specific Conductance,95,,310.0,umho/cm,310,SM2510B,10.0
+2020-12-17,2020,570088,Specific Conductance (umho/cm),Specific Conductance,95,,310.0,umho/cm,310,SM2510B,2.0
+2020-01-08,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.477,pCi/L,0.477,EPA 905.0,0.0
+2020-01-22,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.225,pCi/L,0.225,EPA 905.0,0.0
+2020-02-12,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.206,pCi/L,0.206,EPA 905.0,0.0
+2020-03-11,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.151,pCi/L,0.151,EPA 905.0,0.0
+2020-04-15,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.213,pCi/L,0.213,EPA 905.0,0.0
+2020-05-06,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.381,pCi/L,0.381,EPA 905.0,0.0
+2020-06-10,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.325,pCi/L,0.325,EPA 905.0,0.0
+2020-07-22,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.414,pCi/L,0.414,EPA 905.0,0.0
+2020-08-12,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.311,pCi/L,0.311,EPA 905.0,0.0
+2020-09-02,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.4,pCi/L,0.4,EPA 905.0,0.0
+2020-10-07,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.309,pCi/L,0.309,EPA 905.0,0.0
+2020-11-04,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.344,pCi/L,0.344,EPA 905.0,0.0
+2020-12-09,2020,570088,"Strontium 90, Two Sigma Error (pCi/L)","Strontium 90, Two Sigma Error",13502,,0.225,pCi/L,0.225,EPA 905.0,0.0
+2020-01-08,2020,570088,Sulfate (mg/L),Sulfate,945,,6.4,mg/L,6.4,EPA 300.0,0.5
+2020-01-22,2020,570088,Sulfate (mg/L),Sulfate,945,,3.7,mg/L,3.7,EPA 300.0,1.0
+2020-02-12,2020,570088,Sulfate (mg/L),Sulfate,945,,1.6,mg/L,1.6,EPA 300.0,1.0
+2020-03-11,2020,570088,Sulfate (mg/L),Sulfate,945,,2.0,mg/L,2,EPA 300.0,0.5
+2020-04-15,2020,570088,Sulfate (mg/L),Sulfate,945,,3.7,mg/L,3.7,EPA 300.0,0.5
+2020-04-22,2020,570088,Sulfate (mg/L),Sulfate,945,,4.0,mg/L,4,EPA 300.0,0.5
+2020-05-06,2020,570088,Sulfate (mg/L),Sulfate,945,,3.5,mg/L,3.5,EPA 300.0,0.5
+2020-06-10,2020,570088,Sulfate (mg/L),Sulfate,945,,6.4,mg/L,6.4,EPA 300.0,1.0
+2020-07-22,2020,570088,Sulfate (mg/L),Sulfate,945,,2.5,mg/L,2.5,EPA 300.0,1.0
+2020-08-12,2020,570088,Sulfate (mg/L),Sulfate,945,,2.5,mg/L,2.5,EPA 300.0,1.0
+2020-08-12,2020,570088,Sulfate (mg/L),Sulfate,945,,2.5,mg/L,2.5,EPA 300.0,1.0
+2020-09-02,2020,570088,Sulfate (mg/L),Sulfate,945,,3.3,mg/L,3.3,EPA 300.0,1.0
+2020-10-07,2020,570088,Sulfate (mg/L),Sulfate,945,,7.0,mg/L,7,EPA 300.0,1.0
+2020-10-28,2020,570088,Sulfate (mg/L),Sulfate,945,,6.6,mg/L,6.6,EPA 300.0,1.0
+2020-11-04,2020,570088,Sulfate (mg/L),Sulfate,945,,6.5,mg/L,6.5,EPA 300.0,1.0
+2020-12-07,2020,570088,Sulfate (mg/L),Sulfate,945,,3.0,mg/L,3,EPA 300.0,1.0
+2020-12-09,2020,570088,Sulfate (mg/L),Sulfate,945,,3.5,mg/L,3.5,EPA 300.0,1.0
+2020-12-09,2020,570088,Sulfate (mg/L),Sulfate,945,,3.6,mg/L,3.6,EPA 300.0,1.0
+2020-12-10,2020,570088,Sulfate (mg/L),Sulfate,945,,8.4,mg/L,8.4,EPA 300.0,1.0
+2020-12-14,2020,570088,Sulfate (mg/L),Sulfate,945,,4.5,mg/L,4.5,EPA 300.0,1.0
+2020-12-16,2020,570088,Sulfate (mg/L),Sulfate,945,,4.7,mg/L,4.7,EPA 300.0,1.0
+2020-12-17,2020,570088,Sulfate (mg/L),Sulfate,945,,4.5,mg/L,4.5,EPA 300.0,1.0
+2020-01-08,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,170.0,mg/L,170,E160.1/SM2540C,10.0
+2020-01-22,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,130.0,mg/L,130,E160.1/SM2540C,10.0
+2020-02-12,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,160.0,mg/L,160,E160.1/SM2540C,10.0
+2020-03-11,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,210.0,mg/L,210,E160.1/SM2540C,10.0
+2020-04-15,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,230.0,mg/L,230,E160.1/SM2540C,10.0
+2020-04-22,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,210.0,mg/L,210,E160.1/SM2540C,10.0
+2020-05-06,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,200.0,mg/L,200,E160.1/SM2540C,10.0
+2020-06-10,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,170.0,mg/L,170,E160.1/SM2540C,10.0
+2020-07-22,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,180.0,mg/L,180,E160.1/SM2540C,10.0
+2020-08-12,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,180.0,mg/L,180,E160.1/SM2540C,10.0
+2020-08-12,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,190.0,mg/L,190,E160.1/SM2540C,10.0
+2020-09-02,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,180.0,mg/L,180,E160.1/SM2540C,10.0
+2020-10-07,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,140.0,mg/L,140,E160.1/SM2540C,10.0
+2020-10-28,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,150.0,mg/L,150,E160.1/SM2540C,10.0
+2020-11-04,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,160.0,mg/L,160,E160.1/SM2540C,10.0
+2020-12-07,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,200.0,mg/L,200,E160.1/SM2540C,10.0
+2020-12-09,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,180.0,mg/L,180,E160.1/SM2540C,10.0
+2020-12-09,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,190.0,mg/L,190,E160.1/SM2540C,10.0
+2020-12-10,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,170.0,mg/L,170,E160.1/SM2540C,10.0
+2020-12-14,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,160.0,mg/L,160,E160.1/SM2540C,10.0
+2020-12-16,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,190.0,mg/L,190,E160.1/SM2540C,10.0
+2020-12-17,2020,570088,Total Dissolved Solids (TDS) (mg/L),Total Dissolved Solids (TDS),70300,,190.0,mg/L,190,E160.1/SM2540C,10.0
+2020-01-03,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.22,mg/L,0.22,EPA 300.0,0.1
+2020-01-06,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.25,mg/L,0.25,EPA 300.0,0.1
+2020-01-09,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.32,mg/L,0.32,EPA 300.0,0.1
+2020-01-13,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.28,mg/L,0.28,EPA 300.0,0.1
+2020-01-16,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.26,mg/L,0.26,EPA 300.0,0.1
+2020-01-20,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.32,mg/L,0.32,EPA 300.0,0.1
+2020-01-23,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.26,mg/L,0.26,EPA 300.0,0.1
+2020-01-28,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.15,mg/L,0.15,EPA 300.0,0.1
+2020-01-31,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.35,mg/L,0.35,EPA 300.0,0.1
+2020-02-03,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.43,mg/L,0.43,EPA 300.0,0.1
+2020-02-06,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.22,mg/L,0.22,EPA 300.0,0.1
+2020-02-10,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.29,mg/L,0.29,EPA 300.0,0.1
+2020-02-13,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-02-17,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-02-20,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.37,mg/L,0.37,EPA 300.0,0.1
+2020-02-24,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.39,mg/L,0.39,EPA 300.0,0.1
+2020-02-27,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.34,mg/L,0.34,EPA 300.0,0.1
+2020-03-02,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.53,mg/L,0.53,EPA 300.0,0.1
+2020-03-05,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-03-09,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-03-12,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-03-16,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-03-19,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-03-23,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.39,mg/L,0.39,EPA 300.0,0.1
+2020-03-26,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.61,mg/L,0.61,EPA 300.0,0.1
+2020-03-30,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.58,mg/L,0.58,EPA 300.0,0.1
+2020-04-02,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.3,mg/L,0.3,EPA 300.0,0.1
+2020-04-06,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.45,mg/L,0.45,EPA 300.0,0.1
+2020-04-09,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.45,mg/L,0.45,EPA 300.0,0.1
+2020-04-14,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-04-16,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-04-20,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-04-23,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.38,mg/L,0.38,EPA 300.0,0.1
+2020-04-27,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-04-30,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.38,mg/L,0.38,EPA 300.0,0.1
+2020-05-04,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.46,mg/L,0.46,EPA 300.0,0.1
+2020-05-07,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-05-11,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-05-14,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-05-18,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-05-21,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-05-26,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.58,mg/L,0.58,EPA 300.0,0.1
+2020-05-28,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.52,mg/L,0.52,EPA 300.0,0.1
+2020-06-01,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.56,mg/L,0.56,EPA 300.0,0.1
+2020-06-04,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-06-08,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.67,mg/L,0.67,EPA 300.0,0.1
+2020-06-11,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-06-15,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.76,mg/L,0.76,EPA 300.0,0.1
+2020-06-18,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.75,mg/L,0.75,EPA 300.0,0.1
+2020-06-22,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.57,mg/L,0.57,EPA 300.0,0.1
+2020-06-25,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.46,mg/L,0.46,EPA 300.0,0.1
+2020-06-29,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.64,mg/L,0.64,EPA 300.0,0.1
+2020-07-02,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.53,mg/L,0.53,EPA 300.0,0.1
+2020-07-06,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.55,mg/L,0.55,EPA 300.0,0.1
+2020-07-09,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-07-13,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-07-16,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-07-20,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-07-23,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.34,mg/L,0.34,EPA 300.0,0.1
+2020-07-27,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-07-30,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.38,mg/L,0.38,EPA 300.0,0.1
+2020-08-03,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-08-06,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.55,mg/L,0.55,EPA 300.0,0.1
+2020-08-10,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.6,mg/L,0.6,EPA 300.0,0.1
+2020-08-15,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.43,mg/L,0.43,EPA 300.0,0.1
+2020-08-17,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-08-20,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.48,mg/L,0.48,EPA 300.0,0.1
+2020-08-24,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.46,mg/L,0.46,EPA 300.0,0.1
+2020-08-27,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.38,mg/L,0.38,EPA 300.0,0.1
+2020-08-31,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.56,mg/L,0.56,EPA 300.0,0.1
+2020-09-03,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.52,mg/L,0.52,EPA 300.0,0.1
+2020-09-07,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.83,mg/L,0.83,EPA 300.0,0.1
+2020-09-10,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.56,mg/L,0.56,EPA 300.0,0.1
+2020-09-14,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-09-17,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.53,mg/L,0.53,EPA 300.0,0.1
+2020-09-21,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-09-25,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.52,mg/L,0.52,EPA 300.0,0.1
+2020-09-28,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-10-01,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-10-05,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.6,mg/L,0.6,EPA 300.0,0.1
+2020-10-08,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.74,mg/L,0.74,EPA 300.0,0.1
+2020-10-12,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.73,mg/L,0.73,EPA 300.0,0.1
+2020-10-15,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.46,mg/L,0.46,EPA 300.0,0.1
+2020-10-19,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-10-22,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.37,mg/L,0.37,EPA 300.0,0.1
+2020-10-26,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.61,mg/L,0.61,EPA 300.0,0.1
+2020-10-29,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-11-02,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-11-05,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-11-09,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-11-12,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.33,mg/L,0.33,EPA 300.0,0.1
+2020-11-16,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-11-19,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-11-23,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.32,mg/L,0.32,EPA 300.0,0.1
+2020-11-27,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.29,mg/L,0.29,EPA 300.0,0.1
+2020-11-30,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-12-03,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.42,mg/L,0.42,EPA 300.0,0.1
+2020-12-07,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.39,mg/L,0.39,EPA 300.0,0.1
+2020-12-07,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.36,mg/L,0.36,EPA 300.0,0.1
+2020-12-09,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.31,mg/L,0.31,EPA 300.0,0.1
+2020-12-10,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.41,mg/L,0.41,EPA 300.0,0.1
+2020-12-10,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.4,mg/L,0.4,EPA 300.0,0.1
+2020-12-14,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.5,mg/L,0.5,EPA 300.0,0.1
+2020-12-14,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-12-16,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.65,mg/L,0.65,EPA 300.0,0.1
+2020-12-17,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.54,mg/L,0.54,EPA 300.0,0.1
+2020-12-17,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-12-21,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.35,mg/L,0.35,EPA 300.0,0.1
+2020-12-24,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.44,mg/L,0.44,EPA 300.0,0.1
+2020-12-28,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.33,mg/L,0.33,EPA 300.0,0.1
+2020-12-30,2020,570088,"Total Nitrate, Nitrite-N, CALC (mg/L)","Total Nitrate, Nitrite-N, CALC",A-029,,0.35,mg/L,0.35,EPA 300.0,0.1
+2020-01-03,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.22,mg/L,0.22,EPA 353-351,0.2
+2020-01-06,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.25,mg/L,0.25,EPA 353-351,0.2
+2020-01-09,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.32,mg/L,0.32,EPA 353-351,0.2
+2020-01-13,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.28,mg/L,0.28,EPA 353-351,0.2
+2020-01-16,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.26,mg/L,0.26,EPA 353-351,0.2
+2020-01-20,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.59,mg/L,0.59,EPA 353-351,0.2
+2020-01-23,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.26,mg/L,0.26,EPA 353-351,0.2
+2020-01-28,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,<,0.2,mg/L,ND,EPA 353-351,0.2
+2020-01-31,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.35,mg/L,0.35,EPA 353-351,0.2
+2020-02-03,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.43,mg/L,0.43,EPA 353-351,0.2
+2020-02-06,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.22,mg/L,0.22,EPA 353-351,0.2
+2020-02-10,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.29,mg/L,0.29,EPA 353-351,0.2
+2020-02-13,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.4,mg/L,0.4,EPA 353-351,0.2
+2020-02-17,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-02-20,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.37,mg/L,0.37,EPA 353-351,0.2
+2020-02-24,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.39,mg/L,0.39,EPA 353-351,0.2
+2020-02-27,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.34,mg/L,0.34,EPA 353-351,0.2
+2020-03-02,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.53,mg/L,0.53,EPA 353-351,0.2
+2020-03-05,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-03-09,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-03-12,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.41,mg/L,0.41,EPA 353-351,0.2
+2020-03-16,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.44,mg/L,0.44,EPA 353-351,0.2
+2020-03-19,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-03-23,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.39,mg/L,0.39,EPA 353-351,0.2
+2020-03-26,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.61,mg/L,0.61,EPA 353-351,0.2
+2020-03-30,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.58,mg/L,0.58,EPA 353-351,0.2
+2020-04-02,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.3,mg/L,0.3,EPA 353-351,0.2
+2020-04-06,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.45,mg/L,0.45,EPA 353-351,0.2
+2020-04-09,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.45,mg/L,0.45,EPA 353-351,0.2
+2020-04-14,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.44,mg/L,0.44,EPA 353-351,0.2
+2020-04-16,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.36,mg/L,0.36,EPA 353-351,0.2
+2020-04-20,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.54,mg/L,0.54,EPA 353-351,0.2
+2020-04-23,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.38,mg/L,0.38,EPA 353-351,0.2
+2020-04-27,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-04-30,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.38,mg/L,0.38,EPA 353-351,0.2
+2020-05-04,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.46,mg/L,0.46,EPA 353-351,0.2
+2020-05-07,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-05-11,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.48,mg/L,0.48,EPA 353-351,0.2
+2020-05-14,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.4,mg/L,0.4,EPA 353-351,0.2
+2020-05-18,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-05-21,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.54,mg/L,0.54,EPA 353-351,0.2
+2020-05-26,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.58,mg/L,0.58,EPA 353-351,0.2
+2020-05-28,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.52,mg/L,0.52,EPA 353-351,0.2
+2020-06-01,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.56,mg/L,0.56,EPA 353-351,0.2
+2020-06-04,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-06-08,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.67,mg/L,0.67,EPA 353-351,0.2
+2020-06-11,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.48,mg/L,0.48,EPA 353-351,0.2
+2020-06-15,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.76,mg/L,0.76,EPA 353-351,0.2
+2020-06-18,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.75,mg/L,0.75,EPA 353-351,0.2
+2020-06-22,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.57,mg/L,0.57,EPA 353-351,0.2
+2020-06-25,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.46,mg/L,0.46,EPA 353-351,0.2
+2020-06-29,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.64,mg/L,0.64,EPA 353-351,0.2
+2020-07-02,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.53,mg/L,0.53,EPA 353-351,0.2
+2020-07-06,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.55,mg/L,0.55,EPA 353-351,0.2
+2020-07-09,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.41,mg/L,0.41,EPA 353-351,0.2
+2020-07-13,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.36,mg/L,0.36,EPA 353-351,0.2
+2020-07-16,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.44,mg/L,0.44,EPA 353-351,0.2
+2020-07-20,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.36,mg/L,0.36,EPA 353-351,0.2
+2020-07-23,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.34,mg/L,0.34,EPA 353-351,0.2
+2020-07-27,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.48,mg/L,0.48,EPA 353-351,0.2
+2020-07-30,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.38,mg/L,0.38,EPA 353-351,0.2
+2020-08-03,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.54,mg/L,0.54,EPA 353-351,0.2
+2020-08-06,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.77,mg/L,0.77,EPA 353-351,0.2
+2020-08-10,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.6,mg/L,0.6,EPA 353-351,0.2
+2020-08-15,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.43,mg/L,0.43,EPA 353-351,0.2
+2020-08-17,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.54,mg/L,0.54,EPA 353-351,0.2
+2020-08-20,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.48,mg/L,0.48,EPA 353-351,0.2
+2020-08-24,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.46,mg/L,0.46,EPA 353-351,0.2
+2020-08-27,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.38,mg/L,0.38,EPA 353-351,0.2
+2020-08-31,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.56,mg/L,0.56,EPA 353-351,0.2
+2020-09-03,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.52,mg/L,0.52,EPA 353-351,0.2
+2020-09-07,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.83,mg/L,0.83,EPA 353-351,0.2
+2020-09-10,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.56,mg/L,0.56,EPA 353-351,0.2
+2020-09-14,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-09-17,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.53,mg/L,0.53,EPA 353-351,0.2
+2020-09-21,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-09-25,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.52,mg/L,0.52,EPA 353-351,0.2
+2020-09-28,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-10-01,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-10-05,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.6,mg/L,0.6,EPA 353-351,0.2
+2020-10-08,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.74,mg/L,0.74,EPA 353-351,0.2
+2020-10-12,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.73,mg/L,0.73,EPA 353-351,0.2
+2020-10-15,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.46,mg/L,0.46,EPA 353-351,0.2
+2020-10-19,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-10-22,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.37,mg/L,0.37,EPA 353-351,0.2
+2020-10-26,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.61,mg/L,0.61,EPA 353-351,0.2
+2020-10-29,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.65,mg/L,0.65,EPA 353-351,0.2
+2020-11-02,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.4,mg/L,0.4,EPA 353-351,0.2
+2020-11-05,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.41,mg/L,0.41,EPA 353-351,0.2
+2020-11-09,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.41,mg/L,0.41,EPA 353-351,0.2
+2020-11-12,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.33,mg/L,0.33,EPA 353-351,0.2
+2020-11-16,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-11-19,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.4,mg/L,0.4,EPA 353-351,0.2
+2020-11-23,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.32,mg/L,0.32,EPA 353-351,0.2
+2020-11-27,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.29,mg/L,0.29,EPA 353-351,0.2
+2020-11-30,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.44,mg/L,0.44,EPA 353-351,0.2
+2020-12-03,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.42,mg/L,0.42,EPA 353-351,0.2
+2020-12-07,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.36,mg/L,0.36,EPA 353-351,0.2
+2020-12-10,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.41,mg/L,0.41,EPA 353-351,0.2
+2020-12-14,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.5,mg/L,0.5,EPA 353-351,0.2
+2020-12-17,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.54,mg/L,0.54,EPA 353-351,0.2
+2020-12-21,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.35,mg/L,0.35,EPA 353-351,0.2
+2020-12-24,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.44,mg/L,0.44,EPA 353-351,0.2
+2020-12-28,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.33,mg/L,0.33,EPA 353-351,0.2
+2020-12-30,2020,570088,Total Nitrogen-Calc (mg/L),Total Nitrogen-Calc,WRD32,,0.35,mg/L,0.35,EPA 353-351,0.2
+2020-01-02,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,ND,SM  5310C,0.3
+2020-01-08,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,ND,SM  5310C,0.3
+2020-01-15,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,ND,SM  5310C,0.3
+2020-01-22,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,ND,SM  5310C,0.3
+2020-01-29,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,ND,SM  5310C,0.3
+2020-02-05,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-02-13,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-02-19,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-02-20,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,ND,SM  5310C,0.3
+2020-02-26,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-03-04,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-03-11,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-03-18,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-03-25,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-04-02,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-04-08,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-04-15,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,ND,SM  5310C,0.3
+2020-04-22,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-04-29,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-05-06,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-05-13,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-05-20,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-05-27,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-06-03,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-06-10,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-06-17,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-06-24,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-07-01,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-07-08,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-07-14,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-07-22,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-07-29,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-08-05,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-08-12,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.3,mg/L,J,SM  5310C,0.3
+2020-08-19,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-08-26,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-09-02,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-09-08,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-09-16,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-09-25,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-09-30,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-10-07,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,,0.25,mg/L,0.25,SM  5310C,0.2
+2020-10-14,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-10-21,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,0.2,SM  5310C,0.2
+2020-10-28,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-11-04,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,,0.26,mg/L,0.26,SM  5310C,0.2
+2020-11-11,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,,0.21,mg/L,0.21,SM  5310C,0.2
+2020-11-18,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-11-25,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-12-02,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-12-09,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,<,0.2,mg/L,J,SM  5310C,0.2
+2020-12-16,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,,0.34,mg/L,0.34,SM  5310C,0.2
+2020-12-23,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,,0.31,mg/L,0.31,SM  5310C,0.2
+2020-12-30,2020,570088,Total Organic Carbon (mg/L),Total Organic Carbon,680,,0.29,mg/L,0.29,SM  5310C,0.2
+2020-01-08,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,7.3,ug/L,7.3,EPA 524.2,0.5
+2020-01-22,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,7.6,ug/L,7.6,EPA 524.2,0.5
+2020-02-12,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,9.3,ug/L,9.3,EPA 524.2,0.5
+2020-03-11,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,2.2,ug/L,2.2,EPA 524.2,0.5
+2020-04-15,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,8.7,ug/L,8.7,EPA 524.2,0.5
+2020-05-06,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,14.0,ug/L,14,EPA 524.2,0.5
+2020-06-30,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,16.0,ug/L,16,EPA 524.2,0.5
+2020-07-22,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,12.0,ug/L,12,EPA 524.2,0.5
+2020-08-12,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,16.0,ug/L,16,EPA 524.2,0.5
+2020-09-02,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,17.0,ug/L,17,EPA 524.2,0.5
+2020-10-07,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,21.0,ug/L,21,EPA 524.2,0.5
+2020-11-04,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,21.0,ug/L,21,EPA 524.2,0.5
+2020-12-09,2020,570088,Total Trihalomethanes (ug/L),Total Trihalomethanes,82080,,11.0,ug/L,11,EPA 524.2,0.5
+2020-01-08,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,140.0,pCi/L,140,EPA 906.0,0.0
+2020-01-22,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,131.0,pCi/L,131,EPA 906.0,0.0
+2020-02-12,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,136.0,pCi/L,136,EPA 906.0,0.0
+2020-03-11,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,126.0,pCi/L,126,EPA 906.0,0.0
+2020-04-15,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,154.0,pCi/L,154,EPA 906.0,0.0
+2020-05-06,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,199.0,pCi/L,199,EPA 906.0,0.0
+2020-06-10,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,146.0,pCi/L,146,EPA 906.0,0.0
+2020-07-22,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,154.0,pCi/L,154,EPA 906.0,0.0
+2020-08-12,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,174.0,pCi/L,174,EPA 906.0,0.0
+2020-09-02,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,175.0,pCi/L,175,EPA 906.0,0.0
+2020-10-07,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,194.0,pCi/L,194,EPA 906.0,0.0
+2020-11-04,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,189.0,pCi/L,189,EPA 906.0,0.0
+2020-12-09,2020,570088,"Tritium, Two Sigma Error (pCi/L)","Tritium, Two Sigma Error",7001,,139.0,pCi/L,139,EPA 906.0,0.0

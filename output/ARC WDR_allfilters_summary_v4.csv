@@ -1,0 +1,255 @@
+Site,Constituent,C_wo_units,STORET,Units,Max,DateOfMax,Methods,DL min,DL max,Nr. Non-Detects,Count,Date Range,Detection Rate,Action,Notes
+570088,11CI-PF3OUdS (ug/L),11CI-PF3OUdS,C2817,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,9CI-PF3ONS (ug/L),9CI-PF3ONS,C2816,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,ADONA (ug/L),ADONA,C2818,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Apparent Color (ACU),Apparent Color,81,ACU,3,3/25/2020,['SM 2120B'],3,3,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Butanal (ug/L),Butanal,81562,ug/L,1,8/12/2020,['EPA 556'],1,1,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Chronic Toxicity - Larvae Growth Effect (%),Chronic Toxicity - Larvae Growth Effect,WRD238,%,2.9,12/7/2020,['See Sub Report'],0,0,0,2,2020-2020,100,Keep same frequency,Three or fewer samples
+570088,Chronic Toxicity - Larvae Survival Effect (%),Chronic Toxicity - Larvae Survival Effect,WRD240,%,0.83,12/14/2020,['See Sub Report'],0,0,0,2,2020-2020,100,Keep same frequency,Three or fewer samples
+570088,Glyoxal (ug/L),Glyoxal,A-048,ug/L,10,8/12/2020,['EPA 556'],10,10,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,HFPO-DA (ug/L),HFPO-DA,C2815,ug/L,0.005,4/15/2020,['EPA 537.1'],0.005,0.005,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Iron (mg/L),Iron,1045,mg/L,0.02,3/25/2020,['EPA 200.7'],0.02,0.02,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,NEtFOSAA (ug/L),NEtFOSAA,C2807,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,NMeFOSAA (ug/L),NMeFOSAA,C2808,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Odor (TON),Odor,86,TON,1,3/25/2020,['SM 2150B'],1,1,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Pentanal (ug/L),Pentanal,77061,ug/L,1,8/12/2020,['EPA 556'],1,1,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFBS (ug/L),PFBS,C2801,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFDA (ug/L),PFDA,C2809,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFDoA (ug/L),PFDoA,C2810,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFHpA (ug/L),PFHpA,C2802,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFHxA (ug/L),PFHxA,C2811,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFHxS (ug/L),PFHxS,C2803,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFNA (ug/L),PFNA,C2804,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFTA (ug/L),PFTA,C2812,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFTrDA (ug/L),PFTrDA,C2813,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,PFUnA (ug/L),PFUnA,C2814,ug/L,0.002,4/15/2020,['EPA 537.1'],0.002,0.002,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Propanal (ug/L),Propanal,77012,ug/L,1,8/12/2020,['EPA 556'],1,1,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Silver (ug/L),Silver,1077,ug/L,0.5,3/25/2020,['EPA 200.8'],0.5,0.5,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Surfactants (mg/L),Surfactants,38260,mg/L,0.1,3/25/2020,['SM 5540C/EPA 425.1'],0.1,0.1,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,Zinc (ug/L),Zinc,1092,ug/L,20,3/25/2020,['EPA 200.8'],20,20,1,1,2020-2020,0,Keep same frequency,Three or fewer samples
+570088,"1,1,1-Trichloroethane (ug/L)","1,1,1-Trichloroethane",34506,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,1,2,2-Tetrachloroethane (ug/L)","1,1,2,2-Tetrachloroethane",34516,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,1,2-Trichloroethane (ug/L)","1,1,2-Trichloroethane",34511,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,1-Dichloroethane (ug/L)","1,1-Dichloroethane",34496,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,1-Dichloroethylene (ug/L)","1,1-Dichloroethylene",34501,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,2,3-Trichloropropane (ug/L)","1,2,3-Trichloropropane",77443,ug/L,0.02,6/10/2020,['CASRL 524M-TCP' 'EPA 504.1'],0.005,0.02,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,2,4-Trichlorobenzene (ug/L)","1,2,4-Trichlorobenzene",34551,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,2,4-Trimethylbenzene (ug/L)","1,2,4-Trimethylbenzene",77222,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,2-Dichloroethane (ug/L)","1,2-Dichloroethane",34531,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,2-Dichloropropane (ug/L)","1,2-Dichloropropane",34541,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,2-diphenylhydrazine (ug/L)","1,2-diphenylhydrazine",34346,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,3,5-Trimethylbenzene (ug/L)","1,3,5-Trimethylbenzene",77226,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,3-Dichlorobenzene (ug/L)","1,3-Dichlorobenzene",34566,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,3-Dichloropropene (Total) (ug/L)","1,3-Dichloropropene (Total)",34561,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"1,4-Dioxane (ug/L)","1,4-Dioxane",A-032,ug/L,1,12/9/2020,['EPA 522'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,3,7,8-TCDD (Dioxin) (pg/L)","2,3,7,8-TCDD (Dioxin)",34676,pg/L,5,12/9/2020,['EPA 1613B'],5,5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4,5-TP (Silvex) (ug/L)","2,4,5-TP (Silvex)",39045,ug/L,0.2,12/9/2020,['EPA 515.4'],0.2,0.2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4,6-Trichlorophenol (ug/L)","2,4,6-Trichlorophenol",34621,ug/L,0.99,12/9/2020,['EPA 625.1 SIM'],0.95,0.99,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4,6-Trinitrotoluene (TNT) (ug/L)","2,4,6-Trinitrotoluene (TNT)",81360,ug/L,0.1,12/9/2020,['LC-MS-MS'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4-D (ug/L)","2,4-D",39730,ug/L,0.1,12/9/2020,['EPA 515.4'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4-Dichlorophenol (ug/L)","2,4-Dichlorophenol",34601,ug/L,0.98,2/12/2020,['EPA 625.1 SIM'],0.95,0.98,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4-Dimethylphenol (ug/L)","2,4-Dimethylphenol",34606,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4-Dinitrophenol (ug/L)","2,4-Dinitrophenol",34616,ug/L,4.9,2/12/2020,['EPA 625.1 SIM'],4.8,4.9,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,4-Dinitrotoluene (ug/L)","2,4-Dinitrotoluene",34611,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2,6-Dinitrotoluene (ug/L)","2,6-Dinitrotoluene",34626,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,2-Chloroethyl Vinyl Ether (ug/L),2-Chloroethyl Vinyl Ether,34576,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,2-Chloronaphthalene (ug/L),2-Chloronaphthalene,34581,ug/L,0.2,12/9/2020,['EPA 625.1 SIM'],0.19,0.2,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,2-Chlorophenol (ug/L),2-Chlorophenol,34586,ug/L,0.2,12/9/2020,['EPA 625.1 SIM'],0.19,0.2,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,"2-Methyl-4,6-Dinitrophenol (ug/L)","2-Methyl-4,6-Dinitrophenol",A-050,ug/L,4.9,2/12/2020,['EPA 625.1 SIM'],4.8,4.9,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,2-Nitrophenol (ug/L),2-Nitrophenol,34591,ug/L,4.9,2/12/2020,['EPA 625.1 SIM'],4.8,4.9,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,24 Hour Presumptive (PositiveTub),24 Hour Presumptive,J-008,PositiveTub,1,12/31/2020,['SM  9221B'],0,0,192,192,2020-2020,0,Reduce frequency,All samples are ND
+570088,"3,3-Dichlorobenzidine (ug/L)","3,3-Dichlorobenzidine",34631,ug/L,4.9,2/12/2020,['EPA 625.1 SIM'],4.8,4.9,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,4-Bromophenyl Phenyl Ether (ug/L),4-Bromophenyl Phenyl Ether,34636,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,4-Chloro-3-methylphenol (ug/L),4-Chloro-3-methylphenol,34452,ug/L,0.99,12/9/2020,['EPA 625.1 SIM'],0.95,0.99,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,4-Chlorophenyl Phenyl Ether (ug/L),4-Chlorophenyl Phenyl Ether,34641,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,4-Methyl-2-Pentanone (MIBK) (ug/L),4-Methyl-2-Pentanone (MIBK),81596,ug/L,5,12/9/2020,['EPA 524.2'],5,5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,4-Nitrophenol (ug/L),4-Nitrophenol,34646,ug/L,4.9,2/12/2020,['EPA 625.1 SIM'],4.8,4.9,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"Acenaphthene, Total Weight (ug/L)","Acenaphthene, Total Weight",34205,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Acenaphthylene (ug/L),Acenaphthylene,34200,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Acrolein (ug/L),Acrolein,34210,ug/L,5,10/28/2020,['EPA 624.1'],5,5,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Acrylonitrile (ug/L),Acrylonitrile,34215,ug/L,2,10/28/2020,['EPA 624.1'],2,2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Alachlor (ug/L),Alachlor,77825,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Aldrin (ug/L),Aldrin,39330,ug/L,0.01,12/9/2020,['EPA 505'],0.01,0.01,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Alpha-BHC (ug/L),Alpha-BHC,39337,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Aluminum (ug/L),Aluminum,1105,ug/L,20,12/9/2020,['EPA 200.8'],20,20,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Ammonia Nitrogen (mg/L),Ammonia Nitrogen,612,mg/L,0.05,12/17/2020,['EPA 350.1'],0.05,0.05,6,6,2020-2020,0,Reduce frequency,All samples are ND
+570088,Anthracene (ug/L),Anthracene,34220,ug/L,0.02,10/28/2020,['EPA 525.2'],0.02,0.02,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Antimony (ug/L),Antimony,1097,ug/L,1,12/9/2020,['EPA 200.8'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Arsenic (ug/L),Arsenic,1002,ug/L,1,12/9/2020,['EPA 200.8'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Asbestos (MFL),Asbestos,81855,MFL,0.2,12/9/2020,['EPA 100.2'],0.18,0.2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Atrazine (ug/L),Atrazine,39033,ug/L,0.05,12/9/2020,['EPA 525.2'],0.05,0.05,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Bentazon (ug/L),Bentazon,38710,ug/L,0.5,12/9/2020,['EPA 515.4'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Benzene (ug/L),Benzene,34030,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Benzidine (ug/L),Benzidine,39120,ug/L,4.9,2/12/2020,['EPA 625.1 SIM'],4.8,4.9,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Benzo (a) Anthracene (ug/L),Benzo (a) Anthracene,34526,ug/L,0.05,10/28/2020,['EPA 525.2'],0.05,0.05,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Benzo (a) Pyrene (ug/L),Benzo (a) Pyrene,34247,ug/L,0.02,12/9/2020,['EPA 525.2'],0.02,0.02,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Benzo (b) Fluoranthene (ug/L),Benzo (b) Fluoranthene,34230,ug/L,0.02,10/28/2020,['EPA 525.2'],0.02,0.02,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"Benzo (g,h,i) Perylene (ug/L)","Benzo (g,h,i) Perylene",34521,ug/L,0.05,10/28/2020,['EPA 525.2'],0.05,0.05,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Benzo (k) Fluoranthene (ug/L),Benzo (k) Fluoranthene,34242,ug/L,0.02,10/28/2020,['EPA 525.2'],0.02,0.02,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Beryllium (ug/L),Beryllium,1012,ug/L,2,2/12/2020,['EPA 200.8'],1,2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Beta-BHC (ug/L),Beta-BHC,39338,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Bis (2-Chloroethoxy) Methane (ug/L),Bis (2-Chloroethoxy) Methane,34278,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Bis (2-Chloroethyl) Ether (ug/L),Bis (2-Chloroethyl) Ether,34273,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Bis (2-Chloroisopropyl) Ether (ug/L),Bis (2-Chloroisopropyl) Ether,34283,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Bromoform (ug/L),Bromoform,32104,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Bromomethane (Methyl Bromide) (ug/L),Bromomethane (Methyl Bromide),34413,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Butylbenzylphthalate (ug/L),Butylbenzylphthalate,34292,ug/L,0.5,10/28/2020,['EPA 525.2'],0.5,0.5,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Cadmium (ug/L),Cadmium,1027,ug/L,0.5,12/9/2020,['EPA 200.8'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Caffeine (ng/L),Caffeine,81436,ng/L,10,10/28/2020,['LC-MS-MS'],10,10,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Carbofuran (Furadan) (ug/L),Carbofuran (Furadan),81405,ug/L,0.5,12/9/2020,['EPA 531.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Carbon Disulfide (ug/L),Carbon Disulfide,77041,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Carbon Tetrachloride (ug/L),Carbon Tetrachloride,32102,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chlordane (ug/L),Chlordane,39350,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chlorite by IC (mg/L),Chlorite by IC,50074,mg/L,0.01,12/9/2020,['EPA 300.0'],0.01,0.01,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chlorobenzene (ug/L),Chlorobenzene,34301,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chloroethane (ug/L),Chloroethane,34311,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chloromethane (Methyl Chloride) (ug/L),Chloromethane (Methyl Chloride),34418,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chromium III (ug/L),Chromium III,A-044,ug/L,1,12/9/2020,['EPA 200.8'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chronic Toxicity - Larvae Growth (No Units Listed),Chronic Toxicity - Larvae Growth,WRD237,No Units Listed,0,12/17/2020,['See Sub Report'],0,0,6,6,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chronic Toxicity - Larvae Survival (No Units Listed),Chronic Toxicity - Larvae Survival,WRD239,No Units Listed,0,12/17/2020,['See Sub Report'],0,0,6,6,2020-2020,0,Reduce frequency,All samples are ND
+570088,Chrysene (ug/L),Chrysene,34320,ug/L,0.02,10/28/2020,['EPA 525.2'],0.02,0.02,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,"cis-1,2-Dichloroethylene (ug/L)","cis-1,2-Dichloroethylene",77093,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"cis-1,3-Dichloropropene (ug/L)","cis-1,3-Dichloropropene",34704,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Copper (ug/L),Copper,1042,ug/L,2,12/9/2020,['EPA 200.8'],2,2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Cyanide (mg/L),Cyanide,1291,mg/L,0.025,12/9/2020,['SM4500CN-F'],0.025,0.025,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,D/DBP Haloacetic Acids (HAA5) (ug/L),D/DBP Haloacetic Acids (HAA5),A-049,ug/L,2,12/9/2020,['SM 6251B'],2,2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dalapon (qualitative) (ug/L),Dalapon (qualitative),38432,ug/L,1,12/9/2020,['EPA 515.4'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Delta-BHC (ug/L),Delta-BHC,34259,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Di (2-Ethylhexyl) Adipate (ug/L),Di (2-Ethylhexyl) Adipate,A-026,ug/L,0.6,12/9/2020,['EPA 525.2'],0.6,0.6,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Di(2-ethylhexyl)phthalate (DEHP) (ug/L),Di(2-ethylhexyl)phthalate (DEHP),39100,ug/L,4.8,8/12/2020,['EPA 525.2' 'EPA 625.1 SIM'],0.6,4.8,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Di-n-Butylphthalate (ug/L),Di-n-Butylphthalate,39110,ug/L,1,10/28/2020,['EPA 525.2'],1,1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Di-N-Octylphthalate (ug/L),Di-N-Octylphthalate,34596,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Diazinon (ug/L),Diazinon,39570,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"Dibenzo (a,h) Anthracene (ug/L)","Dibenzo (a,h) Anthracene",34556,ug/L,0.05,10/28/2020,['EPA 525.2'],0.05,0.05,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dibromoacetic acid (ug/L),Dibromoacetic acid,82721,ug/L,1,12/9/2020,['SM 6251B'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dibromochloropropane (DBCP) (ug/L),Dibromochloropropane (DBCP),38761,ug/L,0.01,12/9/2020,['EPA 504.1'],0.01,0.01,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dichloroacetic acid (ug/L),Dichloroacetic acid,77288,ug/L,1,12/9/2020,['SM 6251B'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dichlorodifluoromethane (Freon 12) (ug/L),Dichlorodifluoromethane (Freon 12),34668,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dieldrin (ug/L),Dieldrin,39380,ug/L,0.01,12/9/2020,['EPA 505'],0.01,0.01,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Diethylphthalate (ug/L),Diethylphthalate,34336,ug/L,0.5,10/28/2020,['EPA 525.2'],0.5,0.5,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dimethylphthalate (ug/L),Dimethylphthalate,34341,ug/L,0.5,10/28/2020,['EPA 525.2'],0.5,0.5,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Dinoseb (ug/L),Dinoseb,81287,ug/L,0.2,12/9/2020,['EPA 515.4'],0.2,0.2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Diquat (ug/L),Diquat,78885,ug/L,0.4,12/9/2020,['EPA 549.2'],0.38,0.4,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Endosulfan I (alpha) (ug/L),Endosulfan I (alpha),34361,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Endosulfan II (beta) (ug/L),Endosulfan II (beta),34356,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Endosulfan Sulfate (ug/L),Endosulfan Sulfate,34351,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Endothall (ug/L),Endothall,38926,ug/L,5,12/9/2020,['EPA 548.1'],5,5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Endrin (ug/L),Endrin,39390,ug/L,0.01,12/9/2020,['EPA 505'],0.01,0.01,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Endrin Aldehyde (ug/L),Endrin Aldehyde,34366,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Estradiol (ng/L),Estradiol,WRD95,ng/L,10,10/28/2020,['LC-MS-MS'],10,10,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Ethyl Benzene (ug/L),Ethyl Benzene,34371,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Ethylene Dibromide (EDB) (ug/L),Ethylene Dibromide (EDB),77651,ug/L,0.01,12/9/2020,['EPA 504.1'],0.01,0.01,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Ethylene Glycol (mg/L),Ethylene Glycol,77023,mg/L,5,12/9/2020,['EPA 8015B'],5,5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Fluoranthene (ug/L),Fluoranthene,34376,ug/L,0.1,10/28/2020,['EPA 525.2'],0.1,0.1,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Fluorene (ug/L),Fluorene,34381,ug/L,0.05,12/9/2020,['EPA 525.2'],0.05,0.05,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Fluoride (mg/L),Fluoride,951,mg/L,0.05,12/17/2020,['SM 4500F-C'],0.05,0.05,19,19,2020-2020,0,Reduce frequency,All samples are ND
+570088,Fluorotrichloromethane (Freon11) (ug/L),Fluorotrichloromethane (Freon11),34488,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Gemfibrozil (ng/L),Gemfibrozil,WRD100,ng/L,5,10/28/2020,['LC-MS-MS'],5,5,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Glyphosate (ug/L),Glyphosate,79743,ug/L,6,12/9/2020,['EPA 547'],6,6,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Gross Alpha (pCi/L),Gross Alpha,1501,pCi/L,3,12/9/2020,['EPA 900.0'],3,3,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Gross Alpha particle activity (excluding radon and uranium) (pCi/L),Gross Alpha particle activity (excluding radon and uranium),WRD148,pCi/L,3,12/9/2020,['EPA 900.0'],0,3,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Heptachlor (ug/L),Heptachlor,39410,ug/L,0.01,12/9/2020,['EPA 505'],0.01,0.01,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Heptachlor Epoxide (ug/L),Heptachlor Epoxide,39420,ug/L,0.01,12/9/2020,['EPA 505'],0.01,0.01,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Hexachlorobenzene (ug/L),Hexachlorobenzene,39700,ug/L,0.05,12/9/2020,['EPA 525.2'],0.05,0.05,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Hexachlorobutadiene (ug/L),Hexachlorobutadiene,34391,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Hexachlorocyclopentadiene (ug/L),Hexachlorocyclopentadiene,34386,ug/L,0.05,12/9/2020,['EPA 525.2'],0.05,0.05,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Hexachloroethane (ug/L),Hexachloroethane,34396,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,HMX (ug/L),HMX,82203,ug/L,0.1,12/9/2020,['LC-MS-MS'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"Indeno (1,2,3,c,d) Pyrene (ug/L)","Indeno (1,2,3,c,d) Pyrene",34403,ug/L,0.05,10/28/2020,['EPA 525.2'],0.05,0.05,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Iopromide (ng/L),Iopromide,WRD38,ng/L,10,10/28/2020,['LC-MS-MS'],5,10,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Isophorone (ug/L),Isophorone,34408,ug/L,0.5,10/28/2020,['EPA 525.2'],0.5,0.5,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Isopropylbenzene (ug/L),Isopropylbenzene,77223,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Lead (ug/L),Lead,1051,ug/L,0.5,12/9/2020,['EPA 200.8'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Lindane (Gamma-BHC) (ug/L),Lindane (Gamma-BHC),39340,ug/L,0.01,12/9/2020,['EPA 505'],0.01,0.01,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"m,p-Xylenes (ug/L)","m,p-Xylenes",A-014,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Manganese (ug/L),Manganese,1055,ug/L,2,12/9/2020,['EPA 200.8'],2,2,14,14,2020-2020,0,Reduce frequency,All samples are ND
+570088,Mercury (ug/L),Mercury,71900,ug/L,0.2,8/12/2020,['EPA 200.8'],0.2,0.2,9,9,2020-2020,0,Reduce frequency,All samples are ND
+570088,Mercury (mg/L),Mercury,71900,mg/L,0.00025,7/22/2020,['EPA 245.1'],0.0002,0.00025,12,12,2020-2020,0,Reduce frequency,All samples are ND
+570088,Methoxychlor (ug/L),Methoxychlor,39480,ug/L,0.05,12/9/2020,['EPA 505'],0.05,0.05,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Methyl Tert Butyl Ether (MTBE) (ug/L),Methyl Tert Butyl Ether (MTBE),46491,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,14,14,2020-2020,0,Reduce frequency,All samples are ND
+570088,Molinate (ug/L),Molinate,82199,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Monobromoacetic acid (ug/L),Monobromoacetic acid,A-041,ug/L,1,12/9/2020,['SM 6251B'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Monochloroacetic acid (ug/L),Monochloroacetic acid,A-042,ug/L,2,12/9/2020,['SM 6251B'],2,2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,n-Butylbenzene (ug/L),n-Butylbenzene,A-010,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,N-Nitrosodi-N-Propylamine (NDPA) (ng/L),N-Nitrosodi-N-Propylamine (NDPA),34428,ng/L,2.2,2/12/2020,['EPA 521'],2,2.2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,N-Nitrosodiethylamine (NDEA) (ng/L),N-Nitrosodiethylamine (NDEA),78200,ng/L,2.2,2/12/2020,['EPA 521'],2,2.2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,N-Nitrosodiphenylamine (ug/L),N-Nitrosodiphenylamine,34433,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,n-Propylbenzene (ug/L),n-Propylbenzene,77224,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Naphthalene (ug/L),Naphthalene,34696,ug/L,0.5,12/9/2020,['EPA 524.2' 'EPA 525.2'],0.3,0.5,14,14,2020-2020,0,Reduce frequency,All samples are ND
+570088,Nickel (ug/L),Nickel,1067,ug/L,5,12/9/2020,['EPA 200.8'],5,5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"Nitrite, Nitrogen by IC (mg/L)","Nitrite, Nitrogen by IC",615,mg/L,0.25,2/10/2020,['EPA 300.0'],0.05,0.25,111,111,2020-2020,0,Reduce frequency,All samples are ND
+570088,Nitrobenzene (ug/L),Nitrobenzene,34447,ug/L,0.2,2/12/2020,['EPA 625.1 SIM'],0.19,0.2,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,o-Chlorotoluene (ug/L),o-Chlorotoluene,A-008,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"o-Dichlorobenzene (1,2-DCB) (ug/L)","o-Dichlorobenzene (1,2-DCB)",34536,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,o-Xylene (ug/L),o-Xylene,77135,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Oxamyl (Vydate) (ug/L),Oxamyl (Vydate),38865,ug/L,0.5,12/9/2020,['EPA 531.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"p,p' DDD (ug/L)","p,p' DDD",39310,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,"p,p' DDE (ug/L)","p,p' DDE",39320,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,"p,p' DDT (ug/L)","p,p' DDT",39300,ug/L,0.1,12/9/2020,['EPA 525.2'],0.1,0.1,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,p-Chlorotoluene (ug/L),p-Chlorotoluene,A-009,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,p-Dichlorobenzene (ug/L),p-Dichlorobenzene,34571,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Paraquat (ug/L),Paraquat,82416,ug/L,2,12/9/2020,['EPA 549.2'],1.9,2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCB 1016 Aroclor (ug/L),PCB 1016 Aroclor,34671,ug/L,0.08,12/9/2020,['EPA 505'],0.08,0.08,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCB 1221 Aroclor (ug/L),PCB 1221 Aroclor,39488,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCB 1232 Aroclor (ug/L),PCB 1232 Aroclor,39492,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCB 1242 Aroclor (ug/L),PCB 1242 Aroclor,39496,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCB 1248 Aroclor (ug/L),PCB 1248 Aroclor,39500,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCB 1254 Aroclor (ug/L),PCB 1254 Aroclor,39504,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCB 1260 Aroclor (ug/L),PCB 1260 Aroclor,39508,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PCP (ug/L),PCP,39032,ug/L,0.98,2/12/2020,['EPA 515.4'],0.04,0.98,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Perchlorate (ug/L),Perchlorate,A-031,ug/L,4,12/9/2020,['EPA 314.0'],4,4,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PFOA (ug/L),PFOA,C2806,ug/L,0.002,12/9/2020,['EPA 537.1' 'EPA 537'],0.002,0.002,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,PFOS (ug/L),PFOS,C2805,ug/L,0.002,12/9/2020,['EPA 537.1' 'EPA 537'],0.002,0.002,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Phenanthrene (ug/L),Phenanthrene,34461,ug/L,0.04,12/9/2020,['EPA 525.2'],0.04,0.04,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Phenol (ug/L),Phenol,34694,ug/L,0.2,12/9/2020,['EPA 625.1 SIM'],0.19,0.2,16,16,2020-2020,0,Reduce frequency,All samples are ND
+570088,Picloram (ug/L),Picloram,39720,ug/L,0.1,12/9/2020,['EPA 515.4'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Polychlorinated Biphenyls (PCBs) (ug/L),Polychlorinated Biphenyls (PCBs),39516,ug/L,0.1,12/9/2020,['EPA 505'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Propachlor (ug/L),Propachlor,38533,ug/L,0.05,12/9/2020,['EPA 525.2'],0.05,0.05,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Pyrene (ug/L),Pyrene,34469,ug/L,0.05,10/28/2020,['EPA 525.2'],0.05,0.05,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Radium 226 (pCi/L),Radium 226,9051,pCi/L,1,12/9/2020,['Ra-226 GA'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Radium 226 and 228 (pCi/L),Radium 226 and 228,11503,pCi/L,2,12/9/2020,['EPA 903.0'],0,2,12,12,2020-2020,0,Reduce frequency,All samples are ND
+570088,Radium 226 Two Sigma Error (pCi/L),Radium 226 Two Sigma Error,9052,pCi/L,1,12/9/2020,['Ra-226 GA'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Radium 228 (pCi/L),Radium 228,11501,pCi/L,1,12/9/2020,['RA-228 GA'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Radium 228 Counting Error (pCi/L),Radium 228 Counting Error,11502,pCi/L,1,12/9/2020,['RA-228 GA'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,RDX (ug/L),RDX,81364,ug/L,0.1,12/9/2020,['LC-MS-MS'],0.1,0.1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,sec-Butylbenzene (ug/L),sec-Butylbenzene,77350,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Selenium (ug/L),Selenium,1147,ug/L,5,12/9/2020,['EPA 200.8'],5,5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Simazine (ug/L),Simazine,39055,ug/L,0.05,12/9/2020,['EPA 525.2'],0.05,0.05,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Strontium 90 (pCi/L),Strontium 90,13501,pCi/L,3,11/4/2020,['EPA 905.0'],0.35,3,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Styrene (ug/L),Styrene,77128,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,tert-Butylbenzene (ug/L),tert-Butylbenzene,77353,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Tertiary Butyl Alcohol (TBA) (ug/L),Tertiary Butyl Alcohol (TBA),77035,ug/L,2,12/9/2020,['EPA 524.2 SIM'],2,2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Tetrachloroethylene (PCE) (ug/L),Tetrachloroethylene (PCE),34475,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Thallium (ug/L),Thallium,1059,ug/L,1,12/9/2020,['EPA 200.8'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Thiobencarb (ug/L),Thiobencarb,A-001,ug/L,0.2,12/9/2020,['EPA 525.2'],0.2,0.2,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Toluene (ug/L),Toluene,34010,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"Total 2,3,7,8-TCDD (pg/L)","Total 2,3,7,8-TCDD",34676,pg/L,5,12/9/2020,['EPA 1613B'],5,5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Total Chromium (ug/L),Total Chromium,1034,ug/L,1,12/9/2020,['EPA 200.8'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"Total Coliform, Presence/Absence (P=Pres/A=Ab)","Total Coliform, Presence/Absence",84382,P=Pres/A=Ab,0,12/31/2020,['SM  9221B'],0,0,192,192,2020-2020,0,Reduce frequency,All samples are ND
+570088,Total Xylenes (ug/L),Total Xylenes,81551,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Toxaphene (ug/L),Toxaphene,39400,ug/L,0.5,12/9/2020,['EPA 505'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"trans-1,2-Dichloroethylene (ug/L)","trans-1,2-Dichloroethylene",34546,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,"trans-1,3-Dichloropropene (ug/L)","trans-1,3-Dichloropropene",34699,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Trichloroacetic acid (ug/L),Trichloroacetic acid,82723,ug/L,1,12/9/2020,['SM 6251B'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Trichloroethylene (TCE) (ug/L),Trichloroethylene (TCE),39180,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Trichlorotrifluoroethane (Freon 113) (ug/L),Trichlorotrifluoroethane (Freon 113),81611,ug/L,0.5,12/9/2020,['EPA 524.2'],0.5,0.5,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Triclosan (ng/L),Triclosan,A-069,ng/L,25,10/28/2020,['LC-MS-MS'],20,25,4,4,2020-2020,0,Reduce frequency,All samples are ND
+570088,Tritium (pCi/L),Tritium,7000,pCi/L,500,11/4/2020,['EPA 906.0'],210,500,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Uranium (ug/L),Uranium,28011,ug/L,1,12/9/2020,['EPA 200.8'],1,1,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Uranium (pCi/L),Uranium,28012,pCi/L,0.7,12/9/2020,['EPA 200.8'],0.7,0.7,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Vanadium (ug/L),Vanadium,1087,ug/L,3,12/9/2020,['EPA 200.8'],3,3,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,Vinyl chloride (VC) (ug/L),Vinyl chloride (VC),39175,ug/L,0.3,12/9/2020,['EPA 524.2'],0.3,0.3,13,13,2020-2020,0,Reduce frequency,All samples are ND
+570088,24 Hour Total Confirmed (PositiveTub),24 Hour Total Confirmed,J-010,PositiveTub,2,7/15/2020,['SM  9221B'],0,0,191,192,2020-2020,0.520833333,TO REVIEW,Less than 4 values > DL
+570088,48 Hour Presumptive (PositiveTub),48 Hour Presumptive,J-009,PositiveTub,5,7/15/2020,['SM  9221B'],0,0,189,192,2020-2020,1.5625,TO REVIEW,Less than 4 values > DL
+570088,48 Hour Total Coliform (MPN/100 mL),48 Hour Total Coliform,31506,MPN/100 mL,7,6/11/2020,['SM 9221B'],1.8,1.8,169,172,2020-2020,1.744186047,TO REVIEW,Less than 4 values > DL
+570088,48 Hour Total Coliform (PositiveTub),48 Hour Total Coliform,31506,PositiveTub,2,7/15/2020,['SM  9221B'],0,0,189,192,2020-2020,1.5625,TO REVIEW,Less than 4 values > DL
+570088,Bromate (ug/L),Bromate,A-027,ug/L,2.1,3/11/2020,['EPA 317'],1,1,9,13,2020-2020,30.76923077,TO REVIEW,Less than 4 values > DL
+570088,Bromate by UV/VIS (ug/L),Bromate by UV/VIS,A-027,ug/L,2.1,3/11/2020,['EPA 317'],1,1,9,13,2020-2020,30.76923077,TO REVIEW,Less than 4 values > DL
+570088,Chlorodibromomethane (ug/L),Chlorodibromomethane,32105,ug/L,0.56,9/2/2020,['EPA 524.2'],0.5,0.5,12,13,2020-2020,7.692307692,TO REVIEW,Less than 4 values > DL
+570088,DEET (ng/L),DEET,WRD36,ng/L,13,8/12/2020,['LC-MS-MS'],10,10,3,4,2020-2020,25,TO REVIEW,Less than 4 values > DL
+570088,Formaldehyde (ug/L),Formaldehyde,71880,ug/L,23,12/9/2020,['EPA 556'],5,5,11,13,2020-2020,15.38461538,TO REVIEW,Less than 4 values > DL
+570088,Gross Beta (pCi/L),Gross Beta,3501,pCi/L,4.4,3/11/2020,['EPA 900.0'],3,3,9,13,2020-2020,30.76923077,TO REVIEW,Less than 4 values > DL
+570088,Methylene Chloride (ug/L),Methylene Chloride,34423,ug/L,0.68,1/22/2020,['EPA 524.2'],0.5,0.5,12,13,2020-2020,7.692307692,TO REVIEW,Less than 4 values > DL
+570088,N-Nitrosodimethylamine (NDMA) (ng/L),N-Nitrosodimethylamine (NDMA),34438,ng/L,2.5,5/6/2020,['EPA 521'],2,2.2,11,13,2020-2020,15.38461538,TO REVIEW,Less than 4 values > DL
+570088,Total Coliform (MPN/100 mL),Total Coliform,31505,MPN/100 mL,2.2,7/15/2020,['SM  9221B'],1.1,1.1,191,192,2020-2020,0.520833333,TO REVIEW,Less than 4 values > DL
+570088,Total Kjeldahl Nitrogen (TKN) (mg/L),Total Kjeldahl Nitrogen (TKN),625,mg/L,0.271,1/20/2020,['EPA 351.2'],0.2,0.2,102,105,2020-2020,2.857142857,TO REVIEW,Less than 4 values > DL
