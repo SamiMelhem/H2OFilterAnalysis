@@ -13,9 +13,3 @@ Instructions on how to install and run the project.
 
 ## Usage
 How to use the application, with examples.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Information about the project's license.
