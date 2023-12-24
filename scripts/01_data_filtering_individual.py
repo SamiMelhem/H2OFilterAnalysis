@@ -9,7 +9,7 @@ These remaining data are also plotted for visual analysis.
 User input: WRD provided water quality data
             define path to data and where to write generated input (for further processing) output
 
-Author: rweatherl
+Author: smelhem
 
 """
 
