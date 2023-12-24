@@ -2,7 +2,7 @@
 
 This script reads in filtered datasets for trend analysis
 
-author: RWeatherl
+author: smelhem
 '''
 
 # import numpy as np
